@@ -10,7 +10,7 @@ NB : Ceci est une page Github réalisée dans le cadre du cours de datavisualisa
 4. [Conclusion](#conclusion)
 
 ## Introduction : présentation du projet <a name="presentation"></a>
-Pour faire une visualisation sur le thème de temps de parole des hommes et femmes dans les médias, il a fallu recueillir des open data sur différents sites. Après collecte des données, j'ai décidé de réduire et de synthétiser mes données et de ne travailler que sur la plage qui m'interesse. J'ai donc réduit les données sur une période de 5 ans à savoir entre 2014 et 2019. 
+Ce travail porte sur les prénoms des nouveaux-nés déclarés dans les villes d'Antibes et de Paris pendant 10 ans. Nous cherchons ainsi à comprendre s'il y a une différence entre les prénoms données dans une ville en bord de mer et une ville en pleine terre. Les couvertures spatiales n'étant pas les mêmes, nous avons choisi de partir sur la tranche commune aux deux jeux de données et la plus récente d'où la sélection de la période de 2012 à 2022.
 
 ## Jeux de données et Sprint qualité <a name="donnéesBrutes"></a>
 
