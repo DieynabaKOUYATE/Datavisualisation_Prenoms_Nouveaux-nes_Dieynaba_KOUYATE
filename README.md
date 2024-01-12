@@ -46,7 +46,7 @@ Nous avons téléchargé le fichier CSV et l'avons rectifié :
 + Ajout de la colonne "COLL_INSEE"
 + Nouvelle vérification sur  https://publier.etalab.studio/fr/ et le fichier est déclaré conforme.
 
-Ci-joint les 2 fichiers :
+Pour récupérer les 2 fichiers :
 + Fichier de base mis à disposition par la ville de paris : (voir le fichier "Paris_liste_des_prenoms.csv" dans le répertoire)
 + Fichier corrigé : (voir le fichier "Paris_liste_des_prenoms_corrige.csv" dans le répertoire)
 
@@ -59,7 +59,7 @@ Ainsi, on sait que sur notre corpus de prénoms déclarés entre 2012 et 2022 da
 + 5 prénoms se démarquent avec une occurrence de 22 : Alix, Andrea, Camille, Charlie et Eden
 + Il y a au moins 1270 prénoms de nouveaux nés déclarés dans la ville de paris sur chaque intervalle d'un an
 + Les occurrences les plus fréquentes varient de 5 à 43 : 12217 occurrences comprises dans l'intervalle 5-43
-+ Il y a plus de filles déclarés que de garçons
++ Il y a plus de filles déclarées que de garçons
 + Les valeurs 75056 et Paris sont répétés 14201 fois
 
 ![Debut_WTFCSV](https://github.com/DieynabaKOUYATE/Datavisualisation_Prenoms_Nouveaux-nes_Dieynaba_KOUYATE/assets/151731756/2cff2b95-041d-4575-93a1-aabc192bb03c)
