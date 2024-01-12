@@ -19,8 +19,7 @@ Pour le jeu de données de la ville d'Antibes, nous avons procédé à un sprint
 Et enfin nous avons été sur : https://publier.etalab.studio/fr/ pour vérifier la conformité du fichier après avoir rectifié les erreurs détectées dans le rapport. 
 
 Ci-joint, les détails de ce sprint qualité : 
-+ Fichier de base : (mis à disposition par la ville d'Antibes)
-  *Voir le fichier "antibes_prenoms_naissance.csv" dans le répertoire
++ Fichier de base mis à disposition par la ville d'Antibes : (Voir le fichier "antibes_prenoms_naissance.csv" dans le répertoire)
 
 + Sprint qualité :
   [SprintQualite_Soft_DieynabaKouyate_M2_DEFI_2024.pdf](https://github.com/DieynabaKOUYATE/Datavisualisation_Prenoms_Nouveaux-nes_Dieynaba_KOUYATE/files/13920336/SprintQualite_Soft_DieynabaKouyate_M2_DEFI_2024.pdf)
@@ -28,8 +27,7 @@ Ci-joint, les détails de ce sprint qualité :
 + Processus de correction pour respect du schéma : 
   [SchemaDonnees_Prenoms_DieynabaKouyate_M2_DEFI_2024.pdf](https://github.com/DieynabaKOUYATE/Datavisualisation_Prenoms_Nouveaux-nes_Dieynaba_KOUYATE/files/13920341/SchemaDonnees_Prenoms_DieynabaKouyate_M2_DEFI_2024.pdf)
   
-+ Fichier corrigé et respectant le schéma des prénoms : 
- *Voir le fichier "antibes_prenoms_naissance_corrige.csv" dans le répertoire
++ Fichier corrigé et respectant le schéma des prénoms : (Voir le fichier "antibes_prenoms_naissance_corrige.csv" dans le répertoire)
 
 
 
