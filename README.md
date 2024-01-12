@@ -38,6 +38,8 @@ Ci-joint, les détails de ce sprint qualité :
 Concernant ce deuxième jeu de données, nous estimons que le seul respect du schema est garant de cohérence et de qualité. Ainsi, nous n'avons pas appliqué la grille "soft sprint qualité" mais avons opté pour la correction des données en vue de respecter le schéma. 
 Pour ce faire, nous avons été sur le site de la ville de paris pour télécharger le jeu de données des prénoms déclarés en CSV. Pour prémacher le travail de visualisation, nous avons fait un filtre sur les années en les reserrant sur la période de 2012-2022 https://opendata.paris.fr/explore/dataset/liste_des_prenoms/export/?disjunctive.annee&disjunctive.prenoms&q.timerange.annee=annee:%5B2012-01-01+TO+2022-12-31%5D.
 
+ ![Paris_Filtre10ans](https://github.com/DieynabaKOUYATE/Datavisualisation_Prenoms_Nouveaux-nes_Dieynaba_KOUYATE/assets/151731756/93ca539e-2031-49a9-bda3-c6c18d2e7cd6)
+
 Nous avons téléchargé le fichier CSV et l'avons rectifié :
 + Renommage des colonnes pour y mettre les intitulés listés dans le schéma 
 + Suppression de la colonne "Nombre total cumule par annee"
@@ -46,9 +48,11 @@ Nous avons téléchargé le fichier CSV et l'avons rectifié :
 + Nouvelle vérification sur  https://publier.etalab.studio/fr/ et le fichier est déclaré conforme.
 
 Ci-joint les 2 fichiers :
-+ Fichier de base : ![Paris_Filtre10ans](https://github.com/DieynabaKOUYATE/Datavisualisation_Prenoms_Nouveaux-nes_Dieynaba_KOUYATE/assets/151731756/93ca539e-2031-49a9-bda3-c6c18d2e7cd6)
++ Fichier de base :
+[Uploading Paris_liste_des_prenoms.csv…](https://github.com/DieynabaKOUYATE/Datavisualisation_Prenoms_Nouveaux-nes_Dieynaba_KOUYATE/files/13920341/paris_prenoms_naissance_corrige.csv)
+
 + Fichier corrigé :
-  [Uploading paris_prenoms_naissance_corrige.csv…](https://github.com/DieynabaKOUYATE/Datavisualisation_Prenoms_Nouveaux-nes_Dieynaba_KOUYATE/files/13920341/paris_prenoms_naissance_corrige.csv)
+[Uploading paris_prenoms_naissance_corrige.csv…](https://github.com/DieynabaKOUYATE/Datavisualisation_Prenoms_Nouveaux-nes_Dieynaba_KOUYATE/files/13920341/Paris_liste_des_prenoms.csv)
 
 
 Ensuite, nous avons été sur WTF CSV (https://databasic.io/en/wtfcsv/#upload), pour changer l'approche du "sanity check" et avoir quelques visualisations permettant d'avoir des informations générales. 
