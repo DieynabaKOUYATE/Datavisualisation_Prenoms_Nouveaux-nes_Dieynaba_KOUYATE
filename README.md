@@ -13,9 +13,10 @@ Téléchargé à partir de Pixabay
 Ce travail porte sur les prénoms des nouveaux-nés déclarés dans les villes d'Antibes et de Paris pendant 10 ans. Nous cherchons ainsi à comprendre s'il y a une différence entre les prénoms données dans une ville en bord de mer et une ville en pleine terre. Les couvertures spatiales n'étant pas les mêmes, nous avons choisi de partir sur la tranche commune aux deux jeux de données et la plus récente d'où la sélection de la période de 2012 à 2022.
 
 ## Jeux de données et Sprint qualité <a name="donnéesBrutes"></a>
-***ANTIBES : ***
+**_ANTIBES :_***
 
-Nous avons procédé à un sprint qualité en nous basant sur 10 questions principales (soft sprint qualité). Puis nous avons procédé à la rectification du fichier CSV de base pour respecter le schema destiné aux prénoms des nouveaux nés accessible via le lien ci-après : https://schema.data.gouv.fr/scdl/prenoms/
+Pour le jeu de données de la ville d'Antibes, nous avons procédé à un sprint qualité en nous basant sur 10 questions principales (soft sprint qualité : grille donnée par monsieur Antoine Courtin). Puis nous avons procédé à la rectification du fichier CSV de base pour respecter le schema destiné aux prénoms des nouveaux nés accessible via le lien ci-après : https://schema.data.gouv.fr/scdl/prenoms/ 
+Et enfin nous avons été sur : https://publier.etalab.studio/fr/ pour vérifié la conformité du fichier après avoir rectifié les erreurs détectées dans le rapport. 
 
 Ci-joint, les détails de ce sprint qualité : 
 + Fichier de base : antibes-prenoms-naissance.csv
@@ -29,7 +30,9 @@ Ci-joint, les détails de ce sprint qualité :
 + Fichier corrigé et respectant le schéma des prénoms : antibes-prenoms-naissance_corrige.csv
  [Uploading antibes-prenoms-naissance_corrige.csv…](https://github.com/DieynabaKOUYATE/Datavisualisation_Prenoms_Nouveaux-nes_Dieynaba_KOUYATE/files/13920341/antibes-prenoms-naissance_corrige.csv)
 
-***PARIS : *** 
+
+
+**_PARIS :_** 
 
 ## Visualisation des données <a name="visualisation"></a>
 
