@@ -13,6 +13,9 @@ Téléchargé à partir de Pixabay
 Ce travail porte sur les prénoms des nouveaux-nés déclarés dans les villes d'Antibes et de Paris pendant 10 ans. Nous cherchons ainsi à comprendre s'il y a une différence entre les prénoms données dans une ville en bord de mer et une ville en pleine terre. Les couvertures spatiales n'étant pas les mêmes, nous avons choisi de partir sur la tranche commune aux deux jeux de données et la plus récente d'où la sélection de la période de 2012 à 2022.
 
 ## Jeux de données et Sprint qualité <a name="donnéesBrutes"></a>
+ANTIBES : 
+
+PARIS : 
 
 ## Visualisation des données <a name="visualisation"></a>
 
