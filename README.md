@@ -15,6 +15,13 @@ Ce travail porte sur les prénoms des nouveaux-nés déclarés dans les villes d
 ## Jeux de données et Sprint qualité <a name="donnéesBrutes"></a>
 ANTIBES : 
 
+Nous avons procédé à un sprint qualité en nous basant sur 10 questions principales (soft sprint qualité). Puis nous avons procédé à la rectification du fichier CSV de base pour respecter le schema destiné aux prénoms des nouveaux nés accessible via le lien ci-après : https://schema.data.gouv.fr/scdl/prenoms/
+
+Ci-joint, les détails de ce sprint qualité : 
++ Fichier de base : 
++ Sprint qualité :
++ Respect du schéma :
+
 PARIS : 
 
 ## Visualisation des données <a name="visualisation"></a>
