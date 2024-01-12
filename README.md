@@ -37,10 +37,19 @@ Concernant ce deuxième jeu de données, nous estimons que le seul respect du sc
 Pour ce faire, nous avons été sur le site de la ville de paris en filtrant sur la période de 2012-2022 https://opendata.paris.fr/explore/dataset/liste_des_prenoms/export/?disjunctive.annee&disjunctive.prenoms&q.timerange.annee=annee:%5B2012-01-01+TO+2022-12-31%5D
 ![Paris_Filtre10ans](https://github.com/DieynabaKOUYATE/Datavisualisation_Prenoms_Nouveaux-nes_Dieynaba_KOUYATE/assets/151731756/93ca539e-2031-49a9-bda3-c6c18d2e7cd6)
 
-Ensuite, nous avons été sur WTF CSV, pour changer l'approche du "sanity check" et avoir quelques visualisations permettant d'avoir des informations générales. Ainsi, on sait que sur notre corpus de prénoms déclarés entre 2012 et 2022 dans la ville de paris :
-+5 prénoms se démarquent avec une occurrence de 22 : Alix, Andrea, Camille, Charlie et Eden
-+il y a au moins 1270 prénoms de nouveaux nés déclarés dans la ville de paris sur chaque intervalle d'un an
-+Les occurrences les plus fréquentes varient de 5 à 43 : 12217 occurrences comprises dans l'intervalle 5-43
+Ensuite, nous avons été sur WTF CSV, pour changer l'approche du "sanity check" et avoir quelques visualisations permettant d'avoir des informations générales. 
+
+Ainsi, on sait que sur notre corpus de prénoms déclarés entre 2012 et 2022 dans la ville de paris :
++ Il y a 14201 lignes dans notre fichier
++ 5 prénoms se démarquent avec une occurrence de 22 : Alix, Andrea, Camille, Charlie et Eden
++ Il y a au moins 1270 prénoms de nouveaux nés déclarés dans la ville de paris sur chaque intervalle d'un an
++ Les occurrences les plus fréquentes varient de 5 à 43 : 12217 occurrences comprises dans l'intervalle 5-43
++ Il y a plus de filles déclarés que de garçons
++ Les valeurs 75056 et Paris sont répétés 14201 fois
+
+![Debut_WTFCSV](https://github.com/DieynabaKOUYATE/Datavisualisation_Prenoms_Nouveaux-nes_Dieynaba_KOUYATE/assets/151731756/2cff2b95-041d-4575-93a1-aabc192bb03c)
+
+  
 ![Visualisation_WTFCSV](https://github.com/DieynabaKOUYATE/Datavisualisation_Prenoms_Nouveaux-nes_Dieynaba_KOUYATE/assets/151731756/ff5f2e7c-f5bb-4cc7-8bdb-00eded4b6b74)
 
 
