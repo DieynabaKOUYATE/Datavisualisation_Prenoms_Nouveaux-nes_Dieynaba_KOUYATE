@@ -49,8 +49,8 @@ Nous avons téléchargé le fichier CSV et l'avons rectifié :
 + Nouvelle vérification sur  https://publier.etalab.studio/fr/ et le fichier est déclaré conforme.
 
 Ci-joint les 2 fichiers :
-+ Fichier de base : (Mis à disposition par la ville de paris)
-   *voir le fichier "Paris_liste_des_prenoms.csv" dans le répertoire)
++ Fichier de base mis à disposition par la ville de paris : (voir le fichier "Paris_liste_des_prenoms.csv" dans le répertoire)
++ Fichier corrigé : (voir le fichier "Paris_liste_des_prenoms_corrige.csv" dans le répertoire)
 
 
 
