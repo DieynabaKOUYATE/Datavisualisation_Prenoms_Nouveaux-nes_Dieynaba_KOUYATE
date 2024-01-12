@@ -21,13 +21,13 @@ Et enfin nous avons été sur : https://publier.etalab.studio/fr/ pour vérifier
 Ci-joint, les détails de ce sprint qualité : 
 + Fichier de base : antibes-prenoms-naissance.csv
   https://trouver.datasud.fr/dataset/f78e1a5c-9e9b-4e2a-825a-69e778429e83/resource/9dc11e28-bae7-4a52-bd0e-a8500474ca76/download/antibes_prenoms_naissance_ty62ggz.csv
-+ Sprint qualité : SprintQualite_Soft_DieynabaKouyate_M2_DEFI_2024.pdf
++ Sprint qualité :
   [SprintQualite_Soft_DieynabaKouyate_M2_DEFI_2024.pdf](https://github.com/DieynabaKOUYATE/Datavisualisation_Prenoms_Nouveaux-nes_Dieynaba_KOUYATE/files/13920336/SprintQualite_Soft_DieynabaKouyate_M2_DEFI_2024.pdf)
 
-+ Respect du schéma : SchemaDonnees_Prenoms_DieynabaKouyate_M2_DEFI_2024.pdf
++ Processus de correction pour respect du schéma : 
   [SchemaDonnees_Prenoms_DieynabaKouyate_M2_DEFI_2024.pdf](https://github.com/DieynabaKOUYATE/Datavisualisation_Prenoms_Nouveaux-nes_Dieynaba_KOUYATE/files/13920341/SchemaDonnees_Prenoms_DieynabaKouyate_M2_DEFI_2024.pdf)
   
-+ Fichier corrigé et respectant le schéma des prénoms : antibes-prenoms-naissance_corrige.csv
++ Fichier corrigé et respectant le schéma des prénoms : 
  [Uploading antibes-prenoms-naissance_corrige.csv…](https://github.com/DieynabaKOUYATE/Datavisualisation_Prenoms_Nouveaux-nes_Dieynaba_KOUYATE/files/13920341/antibes-prenoms-naissance_corrige.csv)
 
 
