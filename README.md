@@ -70,9 +70,15 @@ Ainsi, on sait que sur notre corpus de prénoms déclarés entre 2012 et 2022 da
 
 ## Visualisation des données <a name="visualisation"></a>
 
-Pour effectuer nos visualisations, nous avons assemblé les jeux de données dans un seul fichier en restant uniquement sur la période 2012-2022. Ensuite, nous avons utilisé OpenRefine pour enrichir les données avec wikidata (en y ajoutant la localisation) afin de pouvoir situer les 2 villes sur une carte à travers Umap. 
+Pour effectuer nos visualisations, nous avons assemblé les jeux de données dans un seul fichier en restant uniquement sur la période 2012-2022. Ensuite, nous avons utilisé OpenRefine pour enrichir les données avec wikidata (en y ajoutant les localisations) afin de pouvoir situer les 2 villes sur une carte à travers Umap. Mais avant, différentes manipulations ont été nécessaires. 
+
++ On a dû créer un fichier "assemblage.csv" où on a rassemblé les données des 2 villes dans un seul fichier CSV. On voulait le faire directement sur OpenRefine (car c'est possible si les jeux de données ont la même structure) mais il y avait un souci : le fichier de la ville de Paris était un "faux csv" le séparateur était le point virgule et non la virgule (comme sur le jeu de données de la ville d'Antibes). Pour palier à ce souci, nous avons créé le fichier "assemblage.csv" sur LibreOffice avant de faire le traitement et l'enrichissement sur OpenRefine.
+  
++ Pour le traitement des jeux de données, on a d'abord réglé la question des clusters. Un même prénom pouvait avoir différentes orthographes. On a choisi l'orthographe qui nous semblait la plus correcte / la plus utilisée (voir image) .
+  
  https://umap.openstreetmap.fr/en/map/anonymous-edit/1009761:RYZ7hUddR1-MgxEubiB9JeYKvxFt9ML3m8QDribB0Pc
 
 <iframe width="100%" height="800px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/lieu-de-naissance-des-198-prenoms-qui-ont-le-plus-_1009761?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.openstreetmap.fr/en/map/lieu-de-naissance-des-198-prenoms-qui-ont-le-plus-_1009761?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&captionMenus=true">See full screen</a></p>
 
+Pour les prochaines 
 ## Conclusion <a name="conclusion"></a>
