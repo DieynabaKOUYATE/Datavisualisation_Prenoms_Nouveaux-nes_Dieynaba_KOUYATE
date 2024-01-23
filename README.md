@@ -75,6 +75,7 @@ Pour effectuer nos visualisations, nous avons assemblé les jeux de données dan
 + On a dû créer un fichier "assemblage.csv" où on a rassemblé les données des 2 villes dans un seul fichier CSV. On voulait le faire directement sur OpenRefine (car c'est possible si les jeux de données ont la même structure) mais il y avait un souci : le fichier de la ville de Paris était un "faux csv" le séparateur était le point virgule et non la virgule (comme sur le jeu de données de la ville d'Antibes). Pour palier à ce souci, nous avons créé le fichier "assemblage.csv" sur LibreOffice avant de faire le traitement et l'enrichissement sur OpenRefine.
   
 + Pour le traitement des jeux de données, on a d'abord réglé la question des clusters. Un même prénom pouvait avoir différentes orthographes. On a choisi l'orthographe qui nous semblait la plus correcte / la plus utilisée (voir image) .
+![Capture des 256 Clusters](https://github.com/DieynabaKOUYATE/Datavisualisation_Prenoms_Nouveaux-nes_Dieynaba_KOUYATE/blob/main/Clusters.PNG)
   
  https://umap.openstreetmap.fr/en/map/anonymous-edit/1009761:RYZ7hUddR1-MgxEubiB9JeYKvxFt9ML3m8QDribB0Pc
 
