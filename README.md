@@ -92,6 +92,8 @@ Pour avoir un corpus Top 3 des occurrences, à partir de notre fichier "assembla
 + quitter les facettes pour retourner dans l'onglet "Défaire/Refaire"
 + appliquer une facette par étoile à la colonne "toutes" 
 + **au final on a eu un corpus de 198 prénoms au total à analyser: 66 à Paris et 132 à Antibes** 
+
+
 En outre, on a décidé de faire 2 visuelles séparées pour les 2 villes afin que ce soit un peu plus digeste à regarder. On a décidé d'appliquer un filtre sur les années afin qu'on puisse visualiser pour chaque ville les différences/ressemblances en fonction des années. On a appliqué les couleurs pas en fonction des prénoms car on ne le trouve pas pertinent mais en fonction des sexes. 
 
 <iframe src='https://flo.uri.sh/visualisation/16551159/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/16551159/?utm_source=embed&utm_campaign=visualisation/16551159' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
