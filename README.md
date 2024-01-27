@@ -106,4 +106,10 @@ En outre, on a décidé de faire 2 visuelles séparées pour les 2 villes afin q
 
 **Les 213 prénoms les plus donnés à Antibes et Paris**
 <iframe src='https://flo.uri.sh/visualisation/16565616/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/16565616/?utm_source=embed&utm_campaign=visualisation/16565616' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
+
+**Top 3 des prénoms les plus donnés aux nouveaux-nés à Paris de 2012 à 2022 chez les filles et les garçons**
+
+<iframe title="[ Les prénoms les plus donnés à Paris de 2012 à 2022 (Top 3 des plus grandes occurrences chez les filles et les garçons] (Copy)" aria-label="Bar Chart" id="datawrapper-chart-4Rwa3" src="https://datawrapper.dwcdn.net/4Rwa3/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="540" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+</script>
+
 ## Conclusion <a name="conclusion"></a>
