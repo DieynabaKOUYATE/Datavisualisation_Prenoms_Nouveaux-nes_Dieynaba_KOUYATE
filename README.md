@@ -92,7 +92,7 @@ Pour avoir un corpus Top 3 des occurrences, à partir de notre fichier "assembla
 + étoiler les prénoms qui répondent aux critères
 + quitter les facettes pour retourner dans l'onglet "Défaire/Refaire"
 + appliquer une facette par étoile à la colonne "toutes" 
-+ **au final on a eu un corpus de 198 prénoms au total à analyser: 66 à Paris et 147 à Antibes** 
++ **au final on a eu un corpus de 213 prénoms au total à analyser: 66 à Paris et 147 à Antibes** 
 
 
 En outre, on a décidé de faire 2 visuelles séparées pour les 2 villes afin que ce soit un peu plus digeste à regarder. On a décidé d'appliquer un filtre sur les années afin qu'on puisse visualiser pour chaque ville les différences/ressemblances en fonction des années. On a appliqué les couleurs pas en fonction des prénoms car on ne le trouve pas pertinent mais en fonction des sexes. 
@@ -114,5 +114,6 @@ En outre, on a décidé de faire 2 visuelles séparées pour les 2 villes afin q
 
 **Antibes : Les prénoms les plus donnés de 2012 à 2022 (les 3 plus grandes occurrences) chez les filles et les garçons**
 > *Questionnement : quels sont les prénoms les plus donnés aux nouveaux-nés à Antibes de 2012 à 2022 en fonction du sexe (en se basant sur les 3 plus grandes occurrences)?.*
-<iframe title="[ Les prénoms les plus donnés à Antibes de 2012 à 2022 (Top 3 des plus grandes occurrences chez les filles et les garçons) ]" aria-label="Bar Chart" id="datawrapper-chart-6H15O" src="https://datawrapper.dwcdn.net/6H15O/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="779" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();</script>
+<iframe src='https://flo.uri.sh/visualisation/16622371/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/16622371/?utm_source=embed&utm_campaign=visualisation/16622371' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
+
 ## Conclusion <a name="conclusion"></a>
