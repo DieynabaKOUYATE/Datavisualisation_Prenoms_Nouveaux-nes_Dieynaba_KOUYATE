@@ -18,9 +18,13 @@ Ce travail porte sur les prénoms des nouveaux-nés déclarés dans les villes d
 Pour le jeu de données de la ville d'Antibes, nous avons procédé à un sprint qualité en nous basant sur 10 questions principales (soft sprint qualité : grille donnée par monsieur Antoine Courtin). Puis nous avons procédé à la rectification du fichier CSV de base pour respecter le schema destiné aux prénoms des nouveaux nés accessible via le lien ci-après : https://schema.data.gouv.fr/scdl/prenoms/.
 Et enfin nous avons été sur : https://publier.etalab.studio/fr/ pour vérifier la conformité du fichier après avoir rectifié les erreurs détectées dans le rapport. 
 
-Ci-joint, les détails de ce sprint qualité : 
+Ci-dessous, un apperçu du jeu de données mis à disposition par la ville d'Antibes (Source : https://trouver.datasud.fr/dataset/prenoms-des-nouveaux-nes-de-la-ville-antibes-juan-les-pins/resource/c49b3327-31d1-4d34-b90b-2d1585a20327).
+
+<iframe width="700" height="400" src="https://trouver.datasud.fr/dataset/prenoms-des-nouveaux-nes-de-la-ville-antibes-juan-les-pins/resource/c49b3327-31d1-4d34-b90b-2d1585a20327/view/863f8775-bb1a-427e-8ba6-503d847624f2" frameBorder="0"></iframe>
+ 
 + Fichier de base mis à disposition par la ville d'Antibes : (Voir le fichier "antibes_prenoms_naissance.csv" dans le répertoire)
 
+Ci-joint, les détails de ce sprint qualité :
 + Sprint qualité :
   [SprintQualite_Soft_DieynabaKouyate_M2_DEFI_2024.pdf](https://github.com/DieynabaKOUYATE/Datavisualisation_Prenoms_Nouveaux-nes_Dieynaba_KOUYATE/files/13920336/SprintQualite_Soft_DieynabaKouyate_M2_DEFI_2024.pdf)
 
