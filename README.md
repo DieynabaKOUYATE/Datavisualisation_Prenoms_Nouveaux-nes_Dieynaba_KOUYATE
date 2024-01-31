@@ -82,7 +82,7 @@ Ainsi, on sait que sur notre corpus de prénoms déclarés entre 2012 et 2022 da
 
 Pour effectuer nos visualisations, nous avons assemblé les jeux de données dans un seul fichier en restant uniquement sur la période 2012-2022. Ensuite, nous avons utilisé OpenRefine pour enrichir les données avec wikidata (en y ajoutant les localisations) afin de pouvoir situer les 2 villes sur une carte à travers Umap. Mais avant, différentes manipulations ont été nécessaires. 
 
-Voir l'historique d'OpenRefine dans le répertoire :  [Historique_OpenRefine.json](https://github.com/DieynabaKOUYATE/Datavisualisation_Prenoms_Nouveaux-nes_Dieynaba_KOUYATE/blob/main/Historique_OpenRefine.json)
+Voir l'historique d'OpenRefine dans le répertoire :  [Historique_OpenRefine.json](https://github.com/DieynabaKOUYATE/Datavisualisation_Prenoms_Nouveaux-nes_Dieynaba_KOUYATE/blob/main/history.json)
 
 + On a dû créer un fichier "assemblage.csv" où on a rassemblé les données des 2 villes dans un seul fichier CSV. On voulait le faire directement sur OpenRefine (car c'est possible si les jeux de données ont la même structure) mais il y avait un souci : le fichier de la ville de Paris était un "faux csv" le séparateur était le point virgule et non la virgule (comme sur le jeu de données de la ville d'Antibes). Pour palier à ce souci, nous avons créé le fichier "assemblage.csv" sur LibreOffice avant de faire le traitement et l'enrichissement sur OpenRefine.
   
