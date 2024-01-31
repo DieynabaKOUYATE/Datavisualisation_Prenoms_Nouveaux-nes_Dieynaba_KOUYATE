@@ -196,6 +196,8 @@ On voit bien que Adam est le prénom qui a été le plus donné aux garçons sur
 
 Ces différents questionnements, analyses, traitements et visualisations nous ont permis de répondre à notre question de départ qui était de savoir s'il y a une différence entre les prénoms données dans une ville en bord de mer et une ville en pleine terre. La réponse est plutôt Oui si on compare la ville d'Antibes à Paris. Rappelons-le, cette déduction est faite en se basant uniquement sur les Villes d'Antibes et de Paris : Comme l'ont montré les différentes visualisations, on peut dire qu'il y a une différence entre les prénoms les plus donnés à Paris (Gabriel chez les garçons et Louise chez les filles) et ceux d'Antibes (Adam chez les garçons et Emma chez les filles). Néanmoins, dans les deux villes le constat reste le même : les filles ont des prénoms plus variés que les garçons.
 
+
+## Leçon <a name="Leçon Retenue"></a>
 J'ai pu acquérir de bonnes pratiques à travers ce long processus de traitement de données par exemple :
 + Ne pas tout faire en une seule fois quand on est débutant
 + revenir sur les données pour voir s'il y a des erreurs
