@@ -144,7 +144,7 @@ Dans cette visualisation ci-dessus on a l'impression qu'il n'y a que des prénom
 
 <iframe title="Moyenne des prénoms de nouveaux-nés déclarés à Paris et à Antibes (2012-2022)" aria-label="Interactive line chart" id="datawrapper-chart-mngyu" src="https://datawrapper.dwcdn.net/mngyu/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();</script>
 
-**(Version Corrigée) Les 10 prénoms les plus donnés aux nouveaux-nés à Antibes et à Paris (filles et garçons)**
+**(Version Corrigée) Les 13 prénoms les plus donnés aux nouveaux-nés à Antibes et à Paris (filles et garçons)**
 Compte-tenu de l'analyse précédente où on a vu qu'il y a un grand écart entre les deux villes concernant la moyenne de déclaration des prénoms de nouveaux nés, on est parti sur Des critères de sélections différentes (en fonction de la ville). 
 
 + Connaître les prénoms qui sont donnés à paris au moins 300 fois
@@ -171,7 +171,9 @@ A partir de notre [corpus](https://github.com/DieynabaKOUYATE/Datavisualisation_
 <iframe src='https://flo.uri.sh/visualisation/16647621/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/16647621/?utm_source=embed&utm_campaign=visualisation/16647621' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 Constat : comme on peut le voir sur ce visuel, Gabriel est le prénom le plus donné aux garçons à Paris et Louise aux filles.
+
 **Antibes : Les prénoms les plus donnés de 2012 à 2022 (les 3 plus grandes occurrences) chez les filles et les garçons**
+
 > *Questionnement : quels sont les prénoms les plus donnés aux nouveaux-nés à Antibes de 2012 à 2022 en fonction du sexe (en se basant sur les 3 plus grandes occurrences)?.*
 
 Pour répondre à cette qestion nous avons d'abord essayé une visualisation en bar chart mais le nombre de prénoms étant plus de 10, cela n'était pas très digeste. En effet, il y avait un souci principal : un même prénom peut avoir différentes occurrences selon les années et dans le bar chart le prénom apparaissait 2 fois et cela donnait l'impression que c'était des doublons. Cela induisait plus en erreur qu'il n'éclairait le lecteur sur les informations à retenir. Autre problématique, j'avais tiré une conclusion hâtive sur les multitudes de prénoms donnés aux filles car je n'avais pas pris en compte les redondances. Si la personne qui a fait la visualisation donne une fausse interprétation de sa propre visualisation qu'en sera t-il du lecteur ? Partant de ce constat, je me suis dit que ce n'était pas la bonne manière de visualiser les données et j'ai opté plutôt pour les nuages de mots (voir ci-dessous le graphique erroné).
