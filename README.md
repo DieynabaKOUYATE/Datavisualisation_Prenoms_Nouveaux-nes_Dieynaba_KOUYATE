@@ -171,6 +171,16 @@ Notons que dans le fichier de base de la ville d'Antibes les 3 occurrences les p
 
 <iframe src='https://flo.uri.sh/visualisation/16622371/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/16622371/?utm_source=embed&utm_campaign=visualisation/16622371' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
+**(Version rectifiée) Antibes : les prénoms les plus donnés de 2012 à 2022 (au moins 10 fois)
+
+En partant sur notre mini-corpus, on a fait le cumul des occurrences afin d'avoir le nombre total pour définir la taille des nuages de prénoms. 
+> Quels sont les 2 prénoms les plus donnés aux garçons et aux filles sur ces 10ans ?
+
+
+<iframe src='https://flo.uri.sh/visualisation/16647621/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/16647621/?utm_source=embed&utm_campaign=visualisation/16647621' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
+
+On voit bien que Adam est le prénom qui a été le plus donné aux garçons sur ces 10 ans à Antibes et Emma chez les filles. 
+
 ## Conclusion <a name="conclusion"></a>
 
 Ces différents questionnements, analyses, traitements et visualisations nous ont permis de répondre à notre question de départ qui était de savoir s'il y a une différence entre les prénoms données dans une ville en bord de mer et une ville en pleine terre. La réponse est plutôt Oui si on compare la ville d'Antibes à Paris. Rappelons-le, cette déduction est faite en se basant uniquement sur les Villes d'Antibes et de Paris : on peut dire qu'il y a une différence entre les prénoms les plus donnés dans une ville en bord  de mer (ici Antibes) et une ville en plein terre (ici Paris). 
