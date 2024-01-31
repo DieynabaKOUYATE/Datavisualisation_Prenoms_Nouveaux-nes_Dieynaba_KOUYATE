@@ -2,7 +2,7 @@
 NB : Ceci est une page Github réalisée dans le cadre du cours de datavisualisation en M2 Documents électroniques et flux d'informations (Université Paris Nanterre)
 # Prénoms des nouveaux-nés des villes d'Antibes et de Paris
 ![Illustration nouveaux-nés](twins-1628843_1280(1).jpg) 
-Téléchargé à partir de Pixabay
+Téléchargé à partir de Pixabay : https://pixabay.com/photos/twins-babies-newborn-boys-1628843/ 
 # Sommaire 
 1. [Introduction : présentation du projet](#presentation)
 2. [Jeux de données et Sprint qualité](#donnéesBrutes)
@@ -51,8 +51,11 @@ Nous avons téléchargé le fichier CSV et l'avons rectifié :
 + Nouvelle vérification sur  https://publier.etalab.studio/fr/ et le fichier est déclaré conforme.
 
 Pour récupérer les 2 fichiers :
-+ Fichier de base mis à disposition par la ville de paris : (voir le fichier "Paris_liste_des_prenoms.csv" dans le répertoire)
+
 + Fichier corrigé : (voir le fichier "Paris_liste_des_prenoms_corrige.csv" dans le répertoire)
++ Ci-dessous, un apperçu des données mises à disposition : 
+<iframe src="https://opendata.paris.fr/explore/embed/dataset/liste_des_prenoms/table/?disjunctive.annee&disjunctive.prenoms&q.timerange.annee=annee:%5B2012-01-01%20TO%202022-12-31%5D&static=false&datasetcard=false" width="600" height="450" frameborder="0"></iframe>
+
 
 
 
