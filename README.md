@@ -77,6 +77,9 @@ Ainsi, on sait que sur notre corpus de prénoms déclarés entre 2012 et 2022 da
 
 ## Visualisation des données <a name="visualisation"></a>
 
+
+> **Avant toute chose : où se trouve les deux villes en questions ?**
+
 Pour effectuer nos visualisations, nous avons assemblé les jeux de données dans un seul fichier en restant uniquement sur la période 2012-2022. Ensuite, nous avons utilisé OpenRefine pour enrichir les données avec wikidata (en y ajoutant les localisations) afin de pouvoir situer les 2 villes sur une carte à travers Umap. Mais avant, différentes manipulations ont été nécessaires. 
 
 Voir l'historique d'OpenRefine dans le répertoire :  [Historique_OpenRefine.json](https://github.com/DieynabaKOUYATE/Datavisualisation_Prenoms_Nouveaux-nes_Dieynaba_KOUYATE/blob/main/Historique_OpenRefine.json)
