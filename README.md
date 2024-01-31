@@ -15,10 +15,10 @@ Ce travail porte sur les prénoms des nouveaux-nés déclarés dans les villes d
 ## Jeux de données et Sprint qualité <a name="donnéesBrutes"></a>
 **_ANTIBES :_**
 
-Pour le jeu de données de la ville d'Antibes, nous avons procédé à un sprint qualité en nous basant sur 10 questions principales (soft sprint qualité : grille donnée par monsieur Antoine Courtin). Puis nous avons procédé à la rectification du fichier CSV de base pour respecter le schema destiné aux prénoms des nouveaux nés accessible via le lien ci-après : https://schema.data.gouv.fr/scdl/prenoms/.
-Et enfin nous avons été sur : https://publier.etalab.studio/fr/ pour vérifier la conformité du fichier après avoir rectifié les erreurs détectées dans le rapport. 
+Pour le jeu de données de la ville d'Antibes, nous avons procédé à un sprint qualité en nous basant sur 10 questions principales (soft sprint qualité : grille donnée par monsieur Antoine Courtin). Puis nous avons procédé à la rectification du fichier CSV de base pour respecter le schema destiné aux prénoms des nouveaux nés accessible via ce [lien](https://schema.data.gouv.fr/scdl/prenoms/).
+Et enfin nous avons été sur : [etalab](https://publier.etalab.studio/fr/) pour vérifier la conformité du fichier après avoir rectifié les erreurs détectées dans le rapport. 
 
-Ci-dessous, un apperçu du jeu de données mis à disposition par la ville d'Antibes (Source : https://trouver.datasud.fr/dataset/prenoms-des-nouveaux-nes-de-la-ville-antibes-juan-les-pins/resource/c49b3327-31d1-4d34-b90b-2d1585a20327).
+Ci-dessous, un apperçu du jeu de données mis à disposition par la ville d'Antibes [Source](https://trouver.datasud.fr/dataset/prenoms-des-nouveaux-nes-de-la-ville-antibes-juan-les-pins/resource/c49b3327-31d1-4d34-b90b-2d1585a20327).
 
 <iframe width="700" height="400" src="https://trouver.datasud.fr/dataset/prenoms-des-nouveaux-nes-de-la-ville-antibes-juan-les-pins/resource/c49b3327-31d1-4d34-b90b-2d1585a20327/view/863f8775-bb1a-427e-8ba6-503d847624f2" frameBorder="0"></iframe>
  
@@ -31,7 +31,7 @@ Ci-joint, les détails de ce sprint qualité :
 + Processus de correction pour respect du schéma : 
   [SchemaDonnees_Prenoms_DieynabaKouyate_M2_DEFI_2024.pdf](https://github.com/DieynabaKOUYATE/Datavisualisation_Prenoms_Nouveaux-nes_Dieynaba_KOUYATE/files/13920341/SchemaDonnees_Prenoms_DieynabaKouyate_M2_DEFI_2024.pdf)
   
-+ Fichier corrigé et respectant le schéma des prénoms : (Voir le fichier "antibes_prenoms_naissance_corrige.csv" dans le répertoire)
++ Fichier corrigé et respectant le schéma des prénoms : [Corrigé du fichier de base](https://github.com/DieynabaKOUYATE/Datavisualisation_Prenoms_Nouveaux-nes_Dieynaba_KOUYATE/blob/main/antibes-prenoms-naissance_corrige.csv)
 
 
 
@@ -39,16 +39,16 @@ Ci-joint, les détails de ce sprint qualité :
 
 
 Concernant ce deuxième jeu de données, nous estimons que le seul respect du schema est garant de cohérence et de qualité. Ainsi, nous n'avons pas appliqué la grille "soft sprint qualité" mais avons opté pour la correction des données en vue de respecter le schéma. 
-Pour ce faire, nous avons été sur le site de la ville de paris pour télécharger le jeu de données des prénoms déclarés en CSV. Pour prémacher le travail de visualisation, nous avons fait un filtre sur les années en les reserrant sur la période de 2012-2022 https://opendata.paris.fr/explore/dataset/liste_des_prenoms/export/?disjunctive.annee&disjunctive.prenoms&q.timerange.annee=annee:%5B2012-01-01+TO+2022-12-31%5D.
+Pour ce faire, nous avons été sur le site de la ville de paris pour télécharger le jeu de données des prénoms déclarés en CSV. Pour prémacher le travail de visualisation, nous avons fait un filtre sur les années en les reserrant sur la période de 2012-2022. [Source](https://opendata.paris.fr/explore/dataset/liste_des_prenoms/export/?disjunctive.annee&disjunctive.prenoms&q.timerange.annee=annee:%5B2012-01-01+TO+2022-12-31%5D).
 
  ![Paris_Filtre10ans](https://github.com/DieynabaKOUYATE/Datavisualisation_Prenoms_Nouveaux-nes_Dieynaba_KOUYATE/assets/151731756/93ca539e-2031-49a9-bda3-c6c18d2e7cd6)
 
 Nous avons téléchargé le fichier CSV et l'avons rectifié :
 + Renommage des colonnes pour y mettre les intitulés listés dans le schéma 
 + Suppression de la colonne "Nombre total cumule par annee"
-+ Sprint qualité du fichier CSV via https://publier.etalab.studio/fr/, nous avons détecté le non respect du schema car il y avait la colonne insee manquante
++ Sprint qualité du fichier CSV via [etalab](https://publier.etalab.studio/fr/), nous avons détecté le non respect du schema car il y avait la colonne insee manquante
 + Ajout de la colonne "COLL_INSEE"
-+ Nouvelle vérification sur  https://publier.etalab.studio/fr/ et le fichier est déclaré conforme.
++ Nouvelle vérification sur [etalab](https://publier.etalab.studio/fr/) et le fichier est déclaré conforme.
 
 Pour récupérer les 2 fichiers :
 
