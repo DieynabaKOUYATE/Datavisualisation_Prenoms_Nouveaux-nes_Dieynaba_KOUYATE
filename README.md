@@ -22,7 +22,7 @@ Ci-dessous, un apperçu du jeu de données mis à disposition par la ville d'Ant
 
 <iframe width="700" height="400" src="https://trouver.datasud.fr/dataset/prenoms-des-nouveaux-nes-de-la-ville-antibes-juan-les-pins/resource/c49b3327-31d1-4d34-b90b-2d1585a20327/view/863f8775-bb1a-427e-8ba6-503d847624f2" frameBorder="0"></iframe>
  
-+ Fichier de base mis à disposition par la ville d'Antibes : (Voir le fichier "antibes_prenoms_naissance.csv" dans le répertoire)
++ Fichier de base mis à disposition par la ville d'Antibes : [Fichier de base des prénoms de nouveaux-nés de la ville d'Antibes](https://github.com/DieynabaKOUYATE/Datavisualisation_Prenoms_Nouveaux-nes_Dieynaba_KOUYATE/blob/main/antibes-prenoms-naissance.csv)
 
 Ci-joint, les détails de ce sprint qualité :
 + Sprint qualité :
@@ -51,15 +51,14 @@ Nous avons téléchargé le fichier CSV et l'avons rectifié :
 + Nouvelle vérification sur [etalab](https://publier.etalab.studio/fr/) et le fichier est déclaré conforme.
 
 Pour récupérer les 2 fichiers :
-
-+ Fichier corrigé : (voir le fichier "Paris_liste_des_prenoms_corrige.csv" dans le répertoire)
++ Fichier de base mis à disposition par la ville de Paris : [Jeu de données source des prénoms de nouveaux-nés à Paris](https://github.com/DieynabaKOUYATE/Datavisualisation_Prenoms_Nouveaux-nes_Dieynaba_KOUYATE/blob/main/Paris_liste_des_prenoms.csv)
++ Fichier corrigé : [Corrigé du jeu de données de la  ville de Paris](https://github.com/DieynabaKOUYATE/Datavisualisation_Prenoms_Nouveaux-nes_Dieynaba_KOUYATE/blob/main/Paris_prenoms_corriges.csv). Attention : ce fichier csv a été repris à la fin (en réalité le premier fichier corrigé avait comme séparateur le point virgule ";" et pas la virgule ",". C'est d'ailleurs pour cela que j'ai dû créer par la suite un fichier assemblage.csv pour y rassembler les données d'Antibes te Paris afin de faire le traitement sur OpenRefine). Pour plus de conformité et une meilleure lisibilité, on l'a repris et l'avons enregoistré sous format csv avec la virgule comme séparateur.
+  
 + Ci-dessous, un apperçu des données mises à disposition : 
 <iframe src="https://opendata.paris.fr/explore/embed/dataset/liste_des_prenoms/table/?disjunctive.annee&disjunctive.prenoms&q.timerange.annee=annee:%5B2012-01-01%20TO%202022-12-31%5D&static=false&datasetcard=false" width="600" height="450" frameborder="0"></iframe>
 
 
-
-
-Ensuite, nous avons été sur WTF CSV (https://databasic.io/en/wtfcsv/#upload), pour changer l'approche du "sanity check" et avoir quelques visualisations permettant d'avoir des informations générales. 
+Ensuite, nous avons été sur [WTF CSV](https://databasic.io/en/wtfcsv/#upload), pour changer l'approche du "sanity check" et avoir quelques visualisations permettant d'avoir des informations générales. 
 
 Ainsi, on sait que sur notre corpus de prénoms déclarés entre 2012 et 2022 dans la ville de paris :
 + Il y a 14201 lignes dans notre fichier
@@ -91,7 +90,7 @@ Sur la carte ci-dessous : les localisations d'Antibes et de Paris
 
 <iframe width="100%" height="800px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/lieu-de-naissance-des-198-prenoms-qui-ont-le-plus-_1009761?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.openstreetmap.fr/en/map/lieu-de-naissance-des-198-prenoms-qui-ont-le-plus-_1009761?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&captionMenus=true">See full screen</a></p>
 
-Nous avons voulu représenté les données sous une autre forme visuelle : des "Dots" dont les tailles varient en fonction des occurrences. Pour ce faire, on est parti sur un corpus très réduits avec uniquement les colonnes prénoms, sexe, nom de la commune, année. Pour arriver à ce résulat, il fallait faire des choix et la question principale était la suivante : sur quoi se baser pour choisir certains prénoms à la place d'autres? La réponse nous semblait évidante : partir sur les 3 premiers prénoms par années et par ville afin d'avoir un corpus réduit des Top 3. 
+Nous avons voulu représenté les données sous une autre forme visuelle : des "scatter plots" dont les tailles varient en fonction des occurrences. Pour ce faire, on est parti sur un corpus très réduits avec uniquement les colonnes prénoms, sexe, nom de la commune, année. Pour arriver à ce résulat, il fallait faire des choix et la question principale était la suivante : sur quoi se baser pour choisir certains prénoms à la place d'autres? La réponse nous semblait évidante : partir sur les 3 premiers prénoms par années et par ville afin d'avoir un corpus réduit des Top 3. 
 Nous avons entamé cette démarche sur OpenRefine et nous sommes rendus compte que cela n'était pas un critères suffisant : on pouvait avoir 4 prénoms qui ont le même nombre d'occurrence pour une même année. Afin d'éviter cet obstacle, on est plutôt parti sur les 3 plus grandes occurrences de prénoms par année et par ville. Autrement dit si on a plus de 3 prénoms qui ont néanmoins la même occurrence et que cette occurrence fait partie des 3 premières, on les sélectionne tous. 
 
 Pour avoir un corpus Top 3 des occurrences, à partir de notre fichier "assemblage.csv" on a :
