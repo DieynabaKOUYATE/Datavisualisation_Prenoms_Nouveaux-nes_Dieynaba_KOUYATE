@@ -173,7 +173,6 @@ A partir de notre [corpus](https://github.com/DieynabaKOUYATE/Datavisualisation_
 Constat : comme on peut le voir sur ce visuel, Gabriel est le prénom le plus donné aux garçons à Paris et Louise aux filles.
 
 **Antibes : Les prénoms les plus donnés de 2012 à 2022 (les 3 plus grandes occurrences) chez les filles et les garçons**
-
 > *Questionnement : quels sont les prénoms les plus donnés aux nouveaux-nés à Antibes de 2012 à 2022 en fonction du sexe (en se basant sur les 3 plus grandes occurrences)?.*
 
 Pour répondre à cette qestion nous avons d'abord essayé une visualisation en bar chart mais le nombre de prénoms étant plus de 10, cela n'était pas très digeste. En effet, il y avait un souci principal : un même prénom peut avoir différentes occurrences selon les années et dans le bar chart le prénom apparaissait 2 fois et cela donnait l'impression que c'était des doublons. Cela induisait plus en erreur qu'il n'éclairait le lecteur sur les informations à retenir. Autre problématique, j'avais tiré une conclusion hâtive sur les multitudes de prénoms donnés aux filles car je n'avais pas pris en compte les redondances. Si la personne qui a fait la visualisation donne une fausse interprétation de sa propre visualisation qu'en sera t-il du lecteur ? Partant de ce constat, je me suis dit que ce n'était pas la bonne manière de visualiser les données et j'ai opté plutôt pour les nuages de mots (voir ci-dessous le graphique erroné).
