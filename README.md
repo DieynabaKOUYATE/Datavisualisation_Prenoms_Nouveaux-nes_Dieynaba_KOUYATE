@@ -8,6 +8,7 @@ Téléchargé à partir de Pixabay : https://pixabay.com/photos/twins-babies-new
 2. [Jeux de données et Sprint qualité](#donnéesBrutes)
 3. [Visualisation des données](#visualisation)
 4. [Conclusion](#conclusion)
+5. [Leçon Retenue](#Leçon)
 
 ## Introduction : présentation du projet <a name="presentation"></a>
 Ce travail porte sur les prénoms des nouveaux-nés déclarés dans les villes d'Antibes et de Paris pendant 10 ans. Nous cherchons ainsi à comprendre s'il y a une différence entre les prénoms données dans une ville en bord de mer et une ville en pleine terre. Les couvertures spatiales n'étant pas les mêmes, nous avons choisi de partir sur la tranche commune aux deux jeux de données et la plus récente d'où la sélection de la période de _2012 à 2022_.
@@ -159,6 +160,14 @@ Remarque : pour des raisons pédagogiques, les visualisations ont été reprises
 > *Questionnement : quels sont les prénoms les plus donnés aux nouveaux-nés à Paris de 2012 à 2022 en fonction du sexe (en se basant sur les 3 plus grandes occurrences)?.*
 <iframe title="[ Les prénoms les plus donnés à Paris de 2012 à 2022 (Top 3 des plus grandes occurrences chez les filles et les garçons)] (Copy)" aria-label="Bar Chart" id="datawrapper-chart-mCC05" src="https://datawrapper.dwcdn.net/mCC05/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="608" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();</script>
 
+**(Version rectifiée) Paris : Les prénoms les plus donnés aux nouveaux-nés (au moins 300 fois) à Paris**
+A partir de notre [corpus](https://github.com/DieynabaKOUYATE/Datavisualisation_Prenoms_Nouveaux-nes_Dieynaba_KOUYATE/blob/main/Paris_PrenomsDonnes_AuMoins300fois_Flourish.csv), on a fait le cumul des occurrences afin d'avoir le nombre total pour définir la taille des nuages de prénoms. 
+
+> Quel est le prénom le plus donné aux garçons à Paris sur la décennie 2012-2022?   Quel est le prénom le plus donné aux filles à Paris sur la décennie 2012-2022?
+
+<iframe src='https://flo.uri.sh/visualisation/16647621/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/16647621/?utm_source=embed&utm_campaign=visualisation/16647621' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
+
+Constat : comme on peut le voir sur ce visuel, Gabriel est le prénom le plus donné aux garçons à Paris et Louise aux filles.
 **Antibes : Les prénoms les plus donnés de 2012 à 2022 (les 3 plus grandes occurrences) chez les filles et les garçons**
 > *Questionnement : quels sont les prénoms les plus donnés aux nouveaux-nés à Antibes de 2012 à 2022 en fonction du sexe (en se basant sur les 3 plus grandes occurrences)?.*
 
@@ -171,19 +180,21 @@ Notons que dans le fichier de base de la ville d'Antibes les 3 occurrences les p
 
 <iframe src='https://flo.uri.sh/visualisation/16622371/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/16622371/?utm_source=embed&utm_campaign=visualisation/16622371' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
-**(Version rectifiée) Antibes : les prénoms les plus donnés de 2012 à 2022 (au moins 10 fois)
+**(Version rectifiée) Antibes : les prénoms les plus donnés de 2012 à 2022 (au moins 10 fois)**
 
-En partant sur notre mini-corpus, on a fait le cumul des occurrences afin d'avoir le nombre total pour définir la taille des nuages de prénoms. 
-> Quels sont les 2 prénoms les plus donnés aux garçons et aux filles sur ces 10ans ?
+En partant sur notre [mini-corpus](https://github.com/DieynabaKOUYATE/Datavisualisation_Prenoms_Nouveaux-nes_Dieynaba_KOUYATE/blob/main/Antibes_PrenomsDonnes_AuMoins10fois.csv), on a fait le cumul des occurrences afin d'avoir le nombre total pour définir la taille des nuages de prénoms. 
+
+> Quel est le prénom le plus donné aux garçons à Antibes sur la décennie 2012-2022 ?  Quel est le prénom le plus donné aux filles à Antibes sur la décennie 2012-2022 ?
 
 
 <iframe src='https://flo.uri.sh/visualisation/16647621/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/16647621/?utm_source=embed&utm_campaign=visualisation/16647621' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 On voit bien que Adam est le prénom qui a été le plus donné aux garçons sur ces 10 ans à Antibes et Emma chez les filles. 
 
+
 ## Conclusion <a name="conclusion"></a>
 
-Ces différents questionnements, analyses, traitements et visualisations nous ont permis de répondre à notre question de départ qui était de savoir s'il y a une différence entre les prénoms données dans une ville en bord de mer et une ville en pleine terre. La réponse est plutôt Oui si on compare la ville d'Antibes à Paris. Rappelons-le, cette déduction est faite en se basant uniquement sur les Villes d'Antibes et de Paris : on peut dire qu'il y a une différence entre les prénoms les plus donnés dans une ville en bord  de mer (ici Antibes) et une ville en plein terre (ici Paris). 
+Ces différents questionnements, analyses, traitements et visualisations nous ont permis de répondre à notre question de départ qui était de savoir s'il y a une différence entre les prénoms données dans une ville en bord de mer et une ville en pleine terre. La réponse est plutôt Oui si on compare la ville d'Antibes à Paris. Rappelons-le, cette déduction est faite en se basant uniquement sur les Villes d'Antibes et de Paris : Comme l'ont montré les différentes visualisations, on peut dire qu'il y a une différence entre les prénoms les plus donnés à Paris (Gabriel chez les garçons et Louise chez les filles) et ceux d'Antibes (Adam chez les garçons et Emma chez les filles). Néanmoins, dans les deux villes le constat reste le même : les filles ont des prénoms plus variés que les garçons.
 
 J'ai pu acquérir de bonnes pratiques à travers ce long processus de traitement de données par exemple :
 + Ne pas tout faire en une seule fois quand on est débutant
@@ -192,4 +203,4 @@ J'ai pu acquérir de bonnes pratiques à travers ce long processus de traitement
 + utiliser la visualisation comme moyen de vérification de la complétude des informations à analyser: Par exemple pour les prénoms les plus donnés à Antibes, c'est grâce à la visualisation qu'on a su que les filles étaient absentes en 2018 et en 2020. Cela se justifie par le cumul des facettes sur OpenRefine, il fallait étoiler -pour chaque année - séparemment les Top 3 des occurrences chez les filles et chez les garçons. J'ai certainement oublié de faire la manipulation pour les filles en 2018 et 2020. J'ai pu rectifier le tir à temps en faisant le nécessaire sur OpenRefine grâce à la visualisation faite avec Datawrapper et au filtre appliqué au sexe et à l'année.
 + Dans un contexte professionnel : ne pas faire des visuels différents pour dire la même chose (comme c'était le cas ici avec le scartter plot et le bar chart + les nuages de mots).
 
-Avec le recul, je me suis rendue compte que j'étais omnibulée par la manipulation des outils au point d'en oublier parfois la valeur / pertinence. C'est à la fin, avec les reprises de graphiques que je me suis rendue compte que j'ai exploré différentes visualisations pour dire la même chose. Trop tard pour cet exercice mais pour la prochaine fois, je ferai attention à faire une visualisation par question pour éviter toute confusion et toute perte de temps car comme on dit : "Time is money".  
+Avec le recul, je me suis rendue compte que j'étais omnibulée par la manipulation des outils au point d'en oublier parfois la valeur / pertinence. C'est à la fin, avec les reprises de graphiques que je me suis rendue compte que j'ai exploré différentes visualisations pour dire à peu près la même chose. Trop tard pour cet exercice mais pour la prochaine fois, je ferai attention à faire une visualisation par question pour éviter toute confusion et toute perte de temps car comme on dit : "Time is money".  
