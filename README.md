@@ -117,7 +117,13 @@ Pour palier au problème des ex aequo, on a décidé de faire un autre graphique
 
 
 **Paris : les 66 prénoms les plus donnés aux nouveaux nés de 2012 à 2022**
+Toujours sur le même principe des ex aequo, on a pris les top 3 des prénoms les plus donnés y compris les ex aequo d'où les 66 prénoms.
 <iframe src='https://flo.uri.sh/visualisation/16554580/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/16554580/?utm_source=embed&utm_campaign=visualisation/16554580' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
+
+**Paris : les prénoms donnés au moins 300 fois de 2012 à 2022**
+Pour palier au problème des ex aequo, j'ai mis en exergue dans le graphique ci-dessous les prénoms qui ont été donné au moins 300 fois.
+
+<iframe src='https://flo.uri.sh/visualisation/16641932/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/16641932/?utm_source=embed&utm_campaign=visualisation/16641932' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 
 **Les 213 prénoms les plus donnés à Antibes et Paris**
