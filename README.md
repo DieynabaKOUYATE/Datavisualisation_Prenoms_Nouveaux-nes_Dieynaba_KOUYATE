@@ -105,28 +105,31 @@ Pour avoir un corpus Top 3 des occurrences, à partir de notre fichier "assembla
 
 En outre, on a décidé de faire 2 visuelles séparées pour les 2 villes afin que ce soit un peu plus digeste à regarder. On a décidé d'appliquer un filtre sur les années afin qu'on puisse visualiser pour chaque ville les différences/ressemblances en fonction des années. On a appliqué les couleurs pas en fonction des prénoms car on ne le trouve pas pertinent mais en fonction des sexes. 
 
-**Antibes : les prénoms les plus donnés aux nouveaux nés par année de 2012 à 2022**
+**(Première version) Antibes : les prénoms les plus donnés aux nouveaux nés par année de 2012 à 2022**
 Ici, on voulait faire les Top3 des prénoms les plus donnés mais il y avait des ex aequo et à chaque fois que c'était le cas, je les prenais tous. C'est pour cela qu'on n'a pas seulement 6 prénoms par année.
 
 <iframe src='https://flo.uri.sh/visualisation/16564724/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/16564724/?utm_source=embed&utm_campaign=visualisation/16564724' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
-**Antibes : les prénoms donnés au moins 10 fois de 2012 à 2022**
+**(Version corrigée) Antibes : les prénoms donnés au moins 10 fois de 2012 à 2022**
 Pour palier au problème des ex aequo, on a décidé de faire un autre graphique plus digestes : représenter les prénoms qui ont été donnés au moins 10 fois à Antibes sur la période de 2012 à 2022.
 
 <iframe src='https://flo.uri.sh/visualisation/16641441/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/16641441/?utm_source=embed&utm_campaign=visualisation/16641441' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 
-**Paris : les 66 prénoms les plus donnés aux nouveaux nés de 2012 à 2022**
+**(Première version) Paris : les 66 prénoms les plus donnés aux nouveaux nés de 2012 à 2022**
+
 Toujours sur le même principe des ex aequo, on a pris les top 3 des prénoms les plus donnés y compris les ex aequo d'où les 66 prénoms.
+
 <iframe src='https://flo.uri.sh/visualisation/16554580/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/16554580/?utm_source=embed&utm_campaign=visualisation/16554580' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
-**Paris : les prénoms donnés au moins 300 fois de 2012 à 2022**
+**(Version Corrigée) Paris : les prénoms donnés au moins 300 fois de 2012 à 2022**
+
 Pour palier au problème des ex aequo, j'ai mis en exergue dans le graphique ci-dessous les prénoms qui ont été donné au moins 300 fois.
 
 <iframe src='https://flo.uri.sh/visualisation/16641932/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/16641932/?utm_source=embed&utm_campaign=visualisation/16641932' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 
-**Les 213 prénoms les plus donnés à Antibes et Paris**
+**(Première Version) Les 213 prénoms les plus donnés à Antibes et Paris**
 <iframe src='https://flo.uri.sh/visualisation/16565616/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/16565616/?utm_source=embed&utm_campaign=visualisation/16565616' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 Dans cette visualisation ci-dessus on a l'impression qu'il n'y a que des prénoms de nouveaux-nés de la ville de Paris en raison du grand écart des occurrences entre Paris et Antibes. Cela nous avait déjà interpellé lors du traitement des données sur OpenRefine. En effet, pour étoiler les Top 3 des occurrences, j'ai a essayé la méthode "facile" : tri par ordre décroissant sur la colonne "NOMBRE_OCCURRENCE". Puis, je me suis rendue compte que la ville de Paris était toujours en premier sur toutes les années car elle a de grandes occurrences. D'où le recours aux facettes. Grâce à un tableau croisé dynamique, on a pu savoir que le nombre total des prénoms déclarés sur ces 10 ans à Paris s'élève à *338.938* tandis qu'à Antibes c'est plutôt *11.155* sur la même période. C'est ce qui explique une meilleure visibilité des prénoms déclarés à Paris par rapport à Antibes. De là, on s'est dit qu'il vaudrait mieux montrer l'évolution des déclaration des prénoms de nouveaux-nés dans les 2 villes de 2012 à 2022 (voir graphique ci-dessous / nb : moyennes recueillies grâce à aux tableaux croisés dynamiques sur les fichiers de bases de chaque ville). 
@@ -136,18 +139,20 @@ Dans cette visualisation ci-dessus on a l'impression qu'il n'y a que des prénom
 
 <iframe title="Moyenne des prénoms de nouveaux-nés déclarés à Paris et à Antibes (2012-2022)" aria-label="Interactive line chart" id="datawrapper-chart-mngyu" src="https://datawrapper.dwcdn.net/mngyu/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();</script>
 
-**Représentation visuelle des prénoms d'Antibes (qui ont au moins 10 occurrences) et des prénoms de Paris (qui ont au moins 300 occurrences)**
+**(Version Corrigée) Les 10 prénoms les plus donnés aux nouveaux-nés à Antibes et à Paris (filles et garçons)**
 Compte-tenu de l'analyse précédente où on a vu qu'il y a un grand écart entre les deux villes concernant la moyenne de déclaration des prénoms de nouveaux nés, on est parti sur Des critères de sélections différentes (en fonction de la ville). 
 
 + Connaître les prénoms qui sont donnés à paris au moins 300 fois
 + Connaître les prénoms qui sont donnés à Antibes au moins 10 fois
 
-Etant donné que c'est un travail repris, on a choisi des occurrences assez élevées dans chaque ville afin d'avoir un corpus très réduit et gagner du temps pour refaire la visualisation. 
+Etant donné que c'est un travail repris, on a choisi des occurrences assez élevées dans chaque ville afin d'avoir un corpus très réduit et gagner du temps pour refaire la visualisation. La visualisation ci-après est donc une Représentation des prénoms les plus donnés à Antibes (qui ont au moins 10 occurrences) associés aux prénoms les plus donnés à Paris (qui ont au moins 300 occurrences)
 
 
 <iframe src='https://flo.uri.sh/visualisation/16645049/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/16645049/?utm_source=embed&utm_campaign=visualisation/16645049' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
-On peut voir dans ce visuel qu'à Paris comme à Antibes, les prénoms donnés aux filles sont beaucoup plus variés. Tandis que chez les garçons, il y a quand même quelques prénoms qui reviennent souvent au fil des années. 
+On peut voir dans ce visuel qu'à Paris comme à Antibes, les prénoms donnés aux filles sont beaucoup plus variés ; il n'y a que Emma(à Antibes) et Louise (à Paris) dans notre Top 10 des prénoms les plus donnés. Tandis que chez les garçons, il y a quand même quelques prénoms qui reviennent souvent au fil des années dont Adam, Gabriel, Raphael. 
+
+Remarque : pour des raisons pédagogiques, les visualisations ont été reprises (pour montrer qu'on a compris la logique de ce qu'il ne faut pas faire et de ce qui pourrait être fait pour les améliorer). En revanche, si c'était à refaire j'aurais choisi une seule visualisation. En effet, je me rends compte que finalement j'ai utilisé deux visuels différents pour représenter la même chose.  
 
 **Paris : Les prénoms les plus donnés de 2012 à 2022 (les 3 plus grandes occurrences) chez les filles et les garçons**
 > *Questionnement : quels sont les prénoms les plus donnés aux nouveaux-nés à Paris de 2012 à 2022 en fonction du sexe (en se basant sur les 3 plus grandes occurrences)?.*
