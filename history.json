@@ -1,0 +1,7538 @@
+[
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "ENFANT_PRENOM",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Gabriel",
+          "Gabriël",
+          "Gabrïel"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gabriel"
+      },
+      {
+        "from": [
+          "Elena",
+          "Eléna",
+          "Éléna"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Éléna"
+      },
+      {
+        "from": [
+          "Inès",
+          "Ines",
+          "Inés"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Inès"
+      },
+      {
+        "from": [
+          "Chloé",
+          "Chloe",
+          "Chloë"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Chloé"
+      },
+      {
+        "from": [
+          "Maeva",
+          "Maëva",
+          "Maéva"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Maeva"
+      },
+      {
+        "from": [
+          "Hanaé",
+          "Hanae",
+          "Hanaë"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hanaé"
+      },
+      {
+        "from": [
+          "Laetitia",
+          "Laëtitia",
+          "Lætitia"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Laetitia"
+      },
+      {
+        "from": [
+          "Eléa",
+          "Éléa",
+          "Elea"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Éléa"
+      },
+      {
+        "from": [
+          "Lehna",
+          "Léhna",
+          "Lëhna"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Lehna"
+      },
+      {
+        "from": [
+          "Helena",
+          "Héléna",
+          "Hélèna"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Héléna"
+      },
+      {
+        "from": [
+          "Eleanor",
+          "Eléanor",
+          "Éléanor"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Eleanor"
+      },
+      {
+        "from": [
+          "Ismaïl",
+          "Ismail",
+          "Ismaîl"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ismaïl"
+      },
+      {
+        "from": [
+          "Maëline",
+          "Maéline",
+          "Maë-Line"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Maëline"
+      },
+      {
+        "from": [
+          "Zoé",
+          "Zoe",
+          "Zoë"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Zoé"
+      },
+      {
+        "from": [
+          "Ézéchiel",
+          "Ezechiel",
+          "Ezéchiel"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ézéchiel"
+      },
+      {
+        "from": [
+          "Younes",
+          "Younès",
+          "Younés"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Younès"
+      },
+      {
+        "from": [
+          "Serena",
+          "Séréna",
+          "Sérena"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Séréna"
+      },
+      {
+        "from": [
+          "Haroun",
+          "Haroùn",
+          "Hâroun"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Haroun"
+      },
+      {
+        "from": [
+          "Adèle",
+          "Adele"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Adèle"
+      },
+      {
+        "from": [
+          "Leïa",
+          "Leia"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Leïa"
+      },
+      {
+        "from": [
+          "Ezio",
+          "Ézio"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ezio"
+      },
+      {
+        "from": [
+          "Leni",
+          "Léni"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Léni"
+      },
+      {
+        "from": [
+          "Léna",
+          "Lena"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Léna"
+      },
+      {
+        "from": [
+          "Léon",
+          "Leon"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Léon"
+      },
+      {
+        "from": [
+          "Matteo",
+          "Mattéo"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mattéo"
+      },
+      {
+        "from": [
+          "Leny",
+          "Lény"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Léni"
+      },
+      {
+        "from": [
+          "Anaé",
+          "Anaë"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Anaé"
+      },
+      {
+        "from": [
+          "Saul",
+          "Saül"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Saul"
+      },
+      {
+        "from": [
+          "Nélya",
+          "Nelya"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Nélia"
+      },
+      {
+        "from": [
+          "Kamelia",
+          "Kamélia"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Kamélia"
+      },
+      {
+        "from": [
+          "Anes",
+          "Anès"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Anès"
+      },
+      {
+        "from": [
+          "Levi",
+          "Lévi"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Lévi"
+      },
+      {
+        "from": [
+          "Léonard",
+          "Leonard"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Léonard"
+      },
+      {
+        "from": [
+          "Léa",
+          "Lea"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Léa"
+      },
+      {
+        "from": [
+          "Léo",
+          "Leo"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Léo"
+      },
+      {
+        "from": [
+          "Adrielle",
+          "Adriëlle"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Adrielle"
+      },
+      {
+        "from": [
+          "Nahel",
+          "Nahël"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Nahel"
+      },
+      {
+        "from": [
+          "Eloane",
+          "Éloane"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Éloane"
+      },
+      {
+        "from": [
+          "Kevin",
+          "Kévin"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Kevin"
+      },
+      {
+        "from": [
+          "Eric",
+          "Éric"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Eric"
+      },
+      {
+        "from": [
+          "Erin",
+          "Érin"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Erin"
+      },
+      {
+        "from": [
+          "Cataleya",
+          "Cataléya"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cataleya"
+      },
+      {
+        "from": [
+          "Nahil",
+          "Nahïl"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Nahil"
+      },
+      {
+        "from": [
+          "Siméon",
+          "Simeon"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Siméon"
+      },
+      {
+        "from": [
+          "Rebecca",
+          "Rébecca"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Rebecca"
+      },
+      {
+        "from": [
+          "Maïssa",
+          "Maissa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Maïssa"
+      },
+      {
+        "from": [
+          "Nelia",
+          "Nélia"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Nélia"
+      },
+      {
+        "from": [
+          "Andreas",
+          "Andréas"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Andreas"
+      },
+      {
+        "from": [
+          "Mikaïl",
+          "Mikail"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mikaïl"
+      },
+      {
+        "from": [
+          "Aïden",
+          "Aiden"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Aiden"
+      },
+      {
+        "from": [
+          "Eimeo",
+          "Eiméo"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Eimeo"
+      },
+      {
+        "from": [
+          "Abdallah",
+          "Abd'Allah"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Abdallah"
+      },
+      {
+        "from": [
+          "Cloé",
+          "Cloe"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Chloé"
+      },
+      {
+        "from": [
+          "Lou-Ann",
+          "Louann"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Louann"
+      },
+      {
+        "from": [
+          "Mikaël",
+          "Mikael"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mikael"
+      },
+      {
+        "from": [
+          "Aïdan",
+          "Aidan"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Aidan"
+      },
+      {
+        "from": [
+          "Joséphine",
+          "Josephine"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Joséphine"
+      },
+      {
+        "from": [
+          "Anaïs",
+          "Anais"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Anaïs"
+      },
+      {
+        "from": [
+          "Emilia",
+          "Émilia"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Emilia"
+      },
+      {
+        "from": [
+          "Emilie",
+          "Émilie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Emilie"
+      },
+      {
+        "from": [
+          "Maëly",
+          "Maely"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Maely"
+      },
+      {
+        "from": [
+          "Maëna",
+          "Maena"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Maëna"
+      },
+      {
+        "from": [
+          "Maël",
+          "Mael"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Maël"
+      },
+      {
+        "from": [
+          "Maé",
+          "Maë"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Maé"
+      },
+      {
+        "from": [
+          "Aïssa",
+          "Aissa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Aïssa"
+      },
+      {
+        "from": [
+          "Mai",
+          "Maï"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Maï"
+      },
+      {
+        "from": [
+          "Mélanie",
+          "Melanie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mélanie"
+      },
+      {
+        "from": [
+          "Raphaël",
+          "Raphael"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Raphaël"
+      },
+      {
+        "from": [
+          "Maïa",
+          "Maia"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Maya"
+      },
+      {
+        "from": [
+          "Tahira",
+          "Tahïra"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Tahira"
+      },
+      {
+        "from": [
+          "Zaïna",
+          "Zaina"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Zaïna"
+      },
+      {
+        "from": [
+          "Athéna",
+          "Athena"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Athéna"
+      },
+      {
+        "from": [
+          "Mia",
+          "Mïa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mia"
+      },
+      {
+        "from": [
+          "Kelyan",
+          "Kélyan"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Kelyan"
+      },
+      {
+        "from": [
+          "Kelya",
+          "Kélya"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Kelya"
+      },
+      {
+        "from": [
+          "Zahra",
+          "Zahrâ"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Zahra"
+      },
+      {
+        "from": [
+          "Aïcha",
+          "Aicha"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Aïcha"
+      },
+      {
+        "from": [
+          "Célia",
+          "Celia"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Célia"
+      },
+      {
+        "from": [
+          "Leandro",
+          "Léandro"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Leandro"
+      },
+      {
+        "from": [
+          "Eliane",
+          "Éliane"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Eliane"
+      },
+      {
+        "from": [
+          "Keziah",
+          "Kéziah"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Keziah"
+      },
+      {
+        "from": [
+          "Amaia",
+          "Amaïa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Amaia"
+      },
+      {
+        "from": [
+          "Ezekiel",
+          "Ezékiel"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ezekiel"
+      },
+      {
+        "from": [
+          "Jérémy",
+          "Jeremy"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Jérémy"
+      },
+      {
+        "from": [
+          "Eli",
+          "Éli"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Eli"
+      },
+      {
+        "from": [
+          "Elodie",
+          "Élodie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Elodie"
+      },
+      {
+        "from": [
+          "Mayline",
+          "May-Line"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mayline"
+      },
+      {
+        "from": [
+          "Elyana",
+          "Élyana"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Elyana"
+      },
+      {
+        "from": [
+          "Amélia",
+          "Amelia"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Amélia"
+      },
+      {
+        "from": [
+          "Naëlle",
+          "Naelle"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Naëlle"
+      },
+      {
+        "from": [
+          "Eva",
+          "Éva"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Eva"
+      },
+      {
+        "from": [
+          "Eve",
+          "Ève"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Eve"
+      },
+      {
+        "from": [
+          "Melya",
+          "Mélya"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mélia"
+      },
+      {
+        "from": [
+          "Etienne",
+          "Étienne"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Etienne"
+      },
+      {
+        "from": [
+          "Abdel-Hakim",
+          "Abdelhakim"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Abdelhakim"
+      },
+      {
+        "from": [
+          "Ilyes",
+          "Ilyès"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ilyes"
+      },
+      {
+        "from": [
+          "Gaël",
+          "Gael"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gaël"
+      },
+      {
+        "from": [
+          "Gaïa",
+          "Gaia"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gaïa"
+      },
+      {
+        "from": [
+          "Léana",
+          "Leana"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Léana"
+      },
+      {
+        "from": [
+          "Mélia",
+          "Melia"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mélia"
+      },
+      {
+        "from": [
+          "Fares",
+          "Farès"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Fares"
+      },
+      {
+        "from": [
+          "Elia",
+          "Élia"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Elia"
+      },
+      {
+        "from": [
+          "Bechir",
+          "Béchir"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Bechir"
+      },
+      {
+        "from": [
+          "Elio",
+          "Élio"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Elio"
+      },
+      {
+        "from": [
+          "Elif",
+          "Élif"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Elif"
+      },
+      {
+        "from": [
+          "Elie",
+          "Élie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Elie"
+      },
+      {
+        "from": [
+          "Emile",
+          "Émile"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Emile"
+      },
+      {
+        "from": [
+          "Ylies",
+          "Yliès"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ylies"
+      },
+      {
+        "from": [
+          "Mélissa",
+          "Melissa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mélissa"
+      },
+      {
+        "from": [
+          "Keny",
+          "Kény"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Keny"
+      },
+      {
+        "from": [
+          "Essia",
+          "Éssia"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Essia"
+      },
+      {
+        "from": [
+          "Félix",
+          "Felix"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Félix"
+      },
+      {
+        "from": [
+          "Seif-Eddine",
+          "Seïf-Eddine"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Seif-Eddine"
+      },
+      {
+        "from": [
+          "Eloi",
+          "Éloi"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Eloi"
+      },
+      {
+        "from": [
+          "Camélia",
+          "Camelia"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Camélia"
+      },
+      {
+        "from": [
+          "Shahin",
+          "Shahïn"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Shahin"
+      },
+      {
+        "from": [
+          "Imran",
+          "Imrân"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Imran"
+      },
+      {
+        "from": [
+          "Feriel",
+          "Fériel"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Fériel"
+      },
+      {
+        "from": [
+          "Noam",
+          "Noâm"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Noam"
+      },
+      {
+        "from": [
+          "Leïla",
+          "Leila"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Leila"
+      },
+      {
+        "from": [
+          "Eden",
+          "Éden"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Eden"
+      },
+      {
+        "from": [
+          "Edem",
+          "Édèm"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Edem"
+      },
+      {
+        "from": [
+          "Gaëtan",
+          "Gaétan"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gaétan"
+      },
+      {
+        "from": [
+          "Iyed",
+          "Iyèd"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Iyed"
+      },
+      {
+        "from": [
+          "Maëlya",
+          "Maelya"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Maëlia"
+      },
+      {
+        "from": [
+          "Maëlys",
+          "Maelys"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Maëlys"
+      },
+      {
+        "from": [
+          "Théa",
+          "Thea"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Théa"
+      },
+      {
+        "from": [
+          "Théo",
+          "Theo"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Théo"
+      },
+      {
+        "from": [
+          "Mélina",
+          "Melina"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mélina"
+      },
+      {
+        "from": [
+          "Hedi",
+          "Hédi"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Hedi"
+      },
+      {
+        "from": [
+          "Camelya",
+          "Camélya"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Camélia"
+      },
+      {
+        "from": [
+          "Raphaëlle",
+          "Raphaelle"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Raphaëlle"
+      },
+      {
+        "from": [
+          "Eyden",
+          "Éyden"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Eyden"
+      },
+      {
+        "from": [
+          "Naïla",
+          "Naila"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Naïla"
+      },
+      {
+        "from": [
+          "Salma",
+          "Salmä"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Salma"
+      },
+      {
+        "from": [
+          "Chaïma",
+          "Chaima"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Chaïma"
+      },
+      {
+        "from": [
+          "Nathanaël",
+          "Nathanael"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Nathanaël"
+      },
+      {
+        "from": [
+          "Isaïah",
+          "Isaiah"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Isaïah"
+      },
+      {
+        "from": [
+          "Emil",
+          "Émil"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Emil"
+      },
+      {
+        "from": [
+          "Emie",
+          "Émie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Emie"
+      },
+      {
+        "from": [
+          "Emine",
+          "Émine"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Emine"
+      },
+      {
+        "from": [
+          "Elina",
+          "Élina"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Elina"
+      },
+      {
+        "from": [
+          "Maélia",
+          "Maëlia"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Maëlia"
+      },
+      {
+        "from": [
+          "Eline",
+          "Éline"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Eline"
+      },
+      {
+        "from": [
+          "Anaëlle",
+          "Anaelle"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Anaëlle"
+      },
+      {
+        "from": [
+          "Youri",
+          "Yourï"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Youri"
+      },
+      {
+        "from": [
+          "Enora",
+          "Énora"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Enora"
+      },
+      {
+        "from": [
+          "Maëlle",
+          "Maelle"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Maëlle"
+      },
+      {
+        "from": [
+          "Aito",
+          "Aïto"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Aito"
+      },
+      {
+        "from": [
+          "Andrea",
+          "Andréa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Andrea"
+      },
+      {
+        "from": [
+          "Evan",
+          "Évan"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Evan"
+      },
+      {
+        "from": [
+          "Waël",
+          "Wael"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Waël"
+      },
+      {
+        "from": [
+          "Leonardo",
+          "Léonardo"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Leonardo"
+      },
+      {
+        "from": [
+          "Nehla",
+          "Néhla"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Nehla"
+      },
+      {
+        "from": [
+          "Théodore",
+          "Theodore"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Théodore"
+      },
+      {
+        "from": [
+          "Maélan",
+          "Maëlan"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Maëlan"
+      },
+      {
+        "from": [
+          "Térence",
+          "Terence"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Térence"
+      },
+      {
+        "from": [
+          "Aedan",
+          "Aédan"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Aedan"
+      },
+      {
+        "from": [
+          "Sekou",
+          "Sékou"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Sekou"
+      },
+      {
+        "from": [
+          "Elias",
+          "Élias"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Elias"
+      },
+      {
+        "from": [
+          "Izia",
+          "Izïa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Izia"
+      },
+      {
+        "from": [
+          "Cécilia",
+          "Cecilia"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cécilia"
+      },
+      {
+        "from": [
+          "Melyna",
+          "Mélyna"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Melyna"
+      },
+      {
+        "from": [
+          "Layan",
+          "Läyan"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Layan"
+      },
+      {
+        "from": [
+          "Deborah",
+          "Déborah"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Deborah"
+      },
+      {
+        "from": [
+          "Enea",
+          "Enéa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Enea"
+      },
+      {
+        "from": [
+          "Enes",
+          "Ènès"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Enes"
+      },
+      {
+        "from": [
+          "Mellina",
+          "Méllina"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mellina"
+      },
+      {
+        "from": [
+          "Noélie",
+          "Noëlie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Noélie"
+      },
+      {
+        "from": [
+          "Elisa",
+          "Élisa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Elisa"
+      },
+      {
+        "from": [
+          "Elise",
+          "Élise"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Elise"
+      },
+      {
+        "from": [
+          "Eliot",
+          "Éliot"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Eliot"
+      },
+      {
+        "from": [
+          "Roméo",
+          "Romeo"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Roméo"
+      },
+      {
+        "from": [
+          "Elyne",
+          "Élyne"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Eline"
+      },
+      {
+        "from": [
+          "Dante",
+          "Danté"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Dante"
+      },
+      {
+        "from": [
+          "Sherine",
+          "Shérine"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Sherine"
+      },
+      {
+        "from": [
+          "Ismael",
+          "Ismaël"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ismael"
+      },
+      {
+        "from": [
+          "Diego",
+          "Diégo"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Diego"
+      },
+      {
+        "from": [
+          "Michael",
+          "Michaël"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Michael"
+      },
+      {
+        "from": [
+          "Meïr",
+          "Meir"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Meïr"
+      },
+      {
+        "from": [
+          "Ritej",
+          "Ritéj"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ritej"
+      },
+      {
+        "from": [
+          "Tesnim",
+          "Tésnim"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Tesnim"
+      },
+      {
+        "from": [
+          "Elyes",
+          "Elyès"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Elyes"
+      },
+      {
+        "from": [
+          "Keissy",
+          "Keïssy"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Keissy"
+      },
+      {
+        "from": [
+          "Eléonore",
+          "Éléonore"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Eléonore"
+      },
+      {
+        "from": [
+          "Asma",
+          "Asmâ"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Asma"
+      },
+      {
+        "from": [
+          "Serine",
+          "Sérine"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Serine"
+      },
+      {
+        "from": [
+          "Esteban",
+          "Estéban"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Esteban"
+      },
+      {
+        "from": [
+          "Milhan",
+          "Milhân"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Milhan"
+      },
+      {
+        "from": [
+          "Céline",
+          "Celine"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Céline"
+      },
+      {
+        "from": [
+          "Sebastian",
+          "Sébastian"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Sebastian"
+      },
+      {
+        "from": [
+          "Léonie",
+          "Leonie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Léonie"
+      },
+      {
+        "from": [
+          "Ethan",
+          "Éthan"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ethan"
+      },
+      {
+        "from": [
+          "Edouard",
+          "Édouard"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Edouard"
+      },
+      {
+        "from": [
+          "Leonor",
+          "Léonor"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Leonor"
+      },
+      {
+        "from": [
+          "Zia",
+          "Zïa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Zia"
+      },
+      {
+        "from": [
+          "Roman",
+          "Romàn"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Roman"
+      },
+      {
+        "from": [
+          "Abigaïl",
+          "Abigail"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Abigaïl"
+      },
+      {
+        "from": [
+          "Levana",
+          "Lévana"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Levana"
+      },
+      {
+        "from": [
+          "Lily-Rose",
+          "Lilyrose"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Lily-Rose"
+      },
+      {
+        "from": [
+          "Marylou",
+          "Mary-Lou"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Marylou"
+      },
+      {
+        "from": [
+          "Maylis",
+          "Maÿlis"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Maylis"
+      },
+      {
+        "from": [
+          "Melinda",
+          "Mélinda"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Melinda"
+      },
+      {
+        "from": [
+          "Khelya",
+          "Khélya"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Khelya"
+      },
+      {
+        "from": [
+          "Issa",
+          "Ïssa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Issa"
+      },
+      {
+        "from": [
+          "Kelia",
+          "Kélia"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Kelia"
+      },
+      {
+        "from": [
+          "Angelina",
+          "Angélina"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Angelina"
+      },
+      {
+        "from": [
+          "Liana",
+          "Lianà"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Liana"
+      },
+      {
+        "from": [
+          "Sevan",
+          "Sévan"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Sevan"
+      },
+      {
+        "from": [
+          "Eliott",
+          "Éliott"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Eliot"
+      },
+      {
+        "from": [
+          "Yaël",
+          "Yael"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Yaël"
+      },
+      {
+        "from": [
+          "Mickaël",
+          "Mickael"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Michael"
+      },
+      {
+        "from": [
+          "Zelia",
+          "Zélia"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Zelia"
+      },
+      {
+        "from": [
+          "Naël",
+          "Nael"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Naël"
+      },
+      {
+        "from": [
+          "Leonel",
+          "Léonel"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Leonel"
+      },
+      {
+        "from": [
+          "Louanne",
+          "Lou-Anne"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Louanne"
+      },
+      {
+        "from": [
+          "César",
+          "Cesar"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "César"
+      },
+      {
+        "from": [
+          "Delya",
+          "Délya"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Delya"
+      },
+      {
+        "from": [
+          "Aïssata",
+          "Aissata"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Aïssata"
+      },
+      {
+        "from": [
+          "Aïsha",
+          "Aisha"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Aïcha"
+      },
+      {
+        "from": [
+          "Soren",
+          "Sören"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Soren"
+      },
+      {
+        "from": [
+          "Elisabeth",
+          "Élisabeth"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Elisabeth"
+      },
+      {
+        "from": [
+          "Grace",
+          "Grâce"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Grace"
+      },
+      {
+        "from": [
+          "Luqman",
+          "Lüqman"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Luqman"
+      },
+      {
+        "from": [
+          "Barthélemy",
+          "Barthélémy"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Barthélemy"
+      },
+      {
+        "from": [
+          "Rémi",
+          "Remi"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Rémi"
+      },
+      {
+        "from": [
+          "Chainez",
+          "Chaïnez"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Chainez"
+      },
+      {
+        "from": [
+          "Loujaine",
+          "Loujaïne"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Loujaine"
+      },
+      {
+        "from": [
+          "Macéo",
+          "Maceo"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Macéo"
+      },
+      {
+        "from": [
+          "Adem",
+          "Adém"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Adem"
+      },
+      {
+        "from": [
+          "Matéo",
+          "Mateo"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Mathéo"
+      },
+      {
+        "from": [
+          "Aïssatou",
+          "Aissatou"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Aïssatou"
+      },
+      {
+        "from": [
+          "Selim",
+          "Sélim"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Selim"
+      },
+      {
+        "from": [
+          "Tesnime",
+          "Tesnïme"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Tesnime"
+      },
+      {
+        "from": [
+          "Joël",
+          "Joel"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Joël"
+      },
+      {
+        "from": [
+          "Eloïse",
+          "Éloïse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Eloïse"
+      },
+      {
+        "from": [
+          "Maïmouna",
+          "Maimouna"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Maïmouna"
+      },
+      {
+        "from": [
+          "Neïla",
+          "Nëila"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Neïla"
+      },
+      {
+        "from": [
+          "Imene",
+          "Imène"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Imene"
+      },
+      {
+        "from": [
+          "Luna",
+          "Lùna"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Luna"
+      },
+      {
+        "from": [
+          "Abdel-Aziz",
+          "Abdelaziz"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Abdelaziz"
+      },
+      {
+        "from": [
+          "Léopold",
+          "Leopold"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Léopold"
+      },
+      {
+        "from": [
+          "Arken",
+          "Ârken"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Arken"
+      },
+      {
+        "from": [
+          "Ilef",
+          "Ilèf"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ilef"
+      },
+      {
+        "from": [
+          "Rafael",
+          "Rafaël"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Rafael"
+      },
+      {
+        "from": [
+          "Ibrahim",
+          "Ibrahîm"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ibrahim"
+      },
+      {
+        "from": [
+          "Melvin",
+          "Mëlvin"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Melvin"
+      },
+      {
+        "from": [
+          "Rimes",
+          "Rimès"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Rimes"
+      },
+      {
+        "from": [
+          "Béatrice",
+          "Beatrice"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Béatrice"
+      },
+      {
+        "from": [
+          "Saad",
+          "Saäd"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Saad"
+      },
+      {
+        "from": [
+          "Leah",
+          "Léah"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Leah"
+      },
+      {
+        "from": [
+          "Eléanore",
+          "Éléanore"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Eléanore"
+      },
+      {
+        "from": [
+          "Maï-Lan",
+          "Maïlan"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Maïlan"
+      },
+      {
+        "from": [
+          "Selena",
+          "Séléna"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Selena"
+      },
+      {
+        "from": [
+          "Délia",
+          "Delia"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Délia"
+      },
+      {
+        "from": [
+          "Saïd",
+          "Said"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Saïd"
+      }
+    ],
+    "description": "Mass edit cells in column ENFANT_PRENOM"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "NOMBRE_OCCURRENCES",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column NOMBRE_OCCURRENCES using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "ANNEE",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column ANNEE using expression value.toNumber()"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "COLL_INSEE",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "6004"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "06004"
+      }
+    ],
+    "description": "Mass edit cells in column COLL_INSEE"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "COMMUNE_NOM",
+    "expression": "grel:value",
+    "onError": "set-to-blank",
+    "newColumnName": "Commune_copie",
+    "columnInsertIndex": 1,
+    "description": "Create column Commune_copie at index 1 based on column COMMUNE_NOM using expression grel:value"
+  },
+  {
+    "op": "core/recon",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Commune_copie",
+    "config": {
+      "mode": "standard-service",
+      "service": "https://wikidata.reconci.link/en/api",
+      "identifierSpace": "http://www.wikidata.org/entity/",
+      "schemaSpace": "http://www.wikidata.org/prop/direct/",
+      "type": {
+        "id": "Q484170",
+        "name": "commune of France"
+      },
+      "autoMatch": true,
+      "columnDetails": [],
+      "limit": 0
+    },
+    "description": "Reconcile cells in column Commune_copie to type Q484170"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Commune_copie",
+    "similarValue": "Antibes",
+    "judgment": "matched",
+    "match": {
+      "id": "Q126898",
+      "name": "Antibes",
+      "types": [
+        "Q484170",
+        "Q515"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Antibes (Q126898) for cells containing \"Antibes\" in column Commune_copie"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Commune_copie",
+    "similarValue": "Antibes",
+    "judgment": "matched",
+    "match": {
+      "id": "Q126898",
+      "name": "Antibes",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Antibes (Q126898) for cells containing \"Antibes\" in column Commune_copie"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Commune_copie",
+    "similarValue": "Antibes",
+    "judgment": "matched",
+    "match": {
+      "id": "Q126898",
+      "name": "Antibes",
+      "types": [
+        "Q484170",
+        "Q515"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Antibes (Q126898) for cells containing \"Antibes\" in column Commune_copie"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Commune_copie",
+    "similarValue": "Paris",
+    "judgment": "matched",
+    "match": {
+      "id": "Q90",
+      "name": "Paris",
+      "types": [
+        "Q22923920",
+        "Q200250",
+        "Q5119",
+        "Q208511",
+        "Q174844",
+        "Q51929311",
+        "Q1187811",
+        "Q484170",
+        "Q6465",
+        "Q1200957",
+        "Q1637706",
+        "Q1549591",
+        "Q1422929"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Paris (Q90) for cells containing \"Paris\" in column Commune_copie"
+  },
+  {
+    "op": "core/extend-reconciled-data",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "Commune_copie",
+    "endpoint": "https://wikidata.reconci.link/en/api",
+    "identifierSpace": "http://www.wikidata.org/entity/",
+    "schemaSpace": "http://www.wikidata.org/prop/direct/",
+    "extension": {
+      "properties": [
+        {
+          "id": "P625",
+          "name": null
+        }
+      ]
+    },
+    "columnInsertIndex": 2,
+    "description": "Extend data at index 2 based on column Commune_copie"
+  },
+  {
+    "op": "core/column-split",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "coordinate location",
+    "guessCellType": false,
+    "removeOriginalColumn": false,
+    "mode": "separator",
+    "separator": ",",
+    "regex": false,
+    "maxColumns": 0,
+    "description": "Split column coordinate location by separator"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "coordinate location 2",
+    "newColumnName": "lat",
+    "description": "Rename column coordinate location 2 to lat"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "lat",
+    "newColumnName": "long",
+    "description": "Rename column lat to long"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "coordinate location 1",
+    "newColumnName": "lat",
+    "description": "Rename column coordinate location 1 to lat"
+  },
+  {
+    "op": "core/row-star",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "ENFANT_PRENOM",
+          "expression": "value",
+          "columnName": "ENFANT_PRENOM",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Inès",
+                "l": "Inès"
+              }
+            },
+            {
+              "v": {
+                "v": "Éléa",
+                "l": "Éléa"
+              }
+            },
+            {
+              "v": {
+                "v": "Emilie",
+                "l": "Emilie"
+              }
+            },
+            {
+              "v": {
+                "v": "Mélissa",
+                "l": "Mélissa"
+              }
+            },
+            {
+              "v": {
+                "v": "Chloé",
+                "l": "Chloé"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "range",
+          "name": "ANNEE",
+          "expression": "value",
+          "columnName": "ANNEE",
+          "from": 2012,
+          "to": 2013,
+          "selectNumeric": true,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        },
+        {
+          "type": "list",
+          "name": "ENFANT_SEXE",
+          "expression": "value",
+          "columnName": "ENFANT_SEXE",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "F",
+                "l": "F"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "starred": true,
+    "description": "Star rows"
+  },
+  {
+    "op": "core/row-star",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "ENFANT_PRENOM",
+          "expression": "value",
+          "columnName": "ENFANT_PRENOM",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Rafael",
+                "l": "Rafael"
+              }
+            },
+            {
+              "v": {
+                "v": "Michael",
+                "l": "Michael"
+              }
+            },
+            {
+              "v": {
+                "v": "Mathéo",
+                "l": "Mathéo"
+              }
+            },
+            {
+              "v": {
+                "v": "Naël",
+                "l": "Naël"
+              }
+            },
+            {
+              "v": {
+                "v": "Léo",
+                "l": "Léo"
+              }
+            },
+            {
+              "v": {
+                "v": "Eliot",
+                "l": "Eliot"
+              }
+            },
+            {
+              "v": {
+                "v": "Ismael",
+                "l": "Ismael"
+              }
+            },
+            {
+              "v": {
+                "v": "Younès",
+                "l": "Younès"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "range",
+          "name": "ANNEE",
+          "expression": "value",
+          "columnName": "ANNEE",
+          "from": 2012,
+          "to": 2013,
+          "selectNumeric": true,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        },
+        {
+          "type": "list",
+          "name": "ENFANT_SEXE",
+          "expression": "value",
+          "columnName": "ENFANT_SEXE",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "M",
+                "l": "M"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "starred": true,
+    "description": "Star rows"
+  },
+  {
+    "op": "core/row-star",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "ENFANT_PRENOM",
+          "expression": "value",
+          "columnName": "ENFANT_PRENOM",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Inès",
+                "l": "Inès"
+              }
+            },
+            {
+              "v": {
+                "v": "Éléa",
+                "l": "Éléa"
+              }
+            },
+            {
+              "v": {
+                "v": "Emilie",
+                "l": "Emilie"
+              }
+            },
+            {
+              "v": {
+                "v": "Mélissa",
+                "l": "Mélissa"
+              }
+            },
+            {
+              "v": {
+                "v": "Chloé",
+                "l": "Chloé"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "range",
+          "name": "ANNEE",
+          "expression": "value",
+          "columnName": "ANNEE",
+          "from": 2012,
+          "to": 2013,
+          "selectNumeric": true,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        },
+        {
+          "type": "list",
+          "name": "ENFANT_SEXE",
+          "expression": "value",
+          "columnName": "ENFANT_SEXE",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "F",
+                "l": "F"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "starred": false,
+    "description": "Unstar rows"
+  },
+  {
+    "op": "core/row-star",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "ENFANT_PRENOM",
+          "expression": "value",
+          "columnName": "ENFANT_PRENOM",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Rafael",
+                "l": "Rafael"
+              }
+            },
+            {
+              "v": {
+                "v": "Michael",
+                "l": "Michael"
+              }
+            },
+            {
+              "v": {
+                "v": "Mathéo",
+                "l": "Mathéo"
+              }
+            },
+            {
+              "v": {
+                "v": "Naël",
+                "l": "Naël"
+              }
+            },
+            {
+              "v": {
+                "v": "Léo",
+                "l": "Léo"
+              }
+            },
+            {
+              "v": {
+                "v": "Eliot",
+                "l": "Eliot"
+              }
+            },
+            {
+              "v": {
+                "v": "Ismael",
+                "l": "Ismael"
+              }
+            },
+            {
+              "v": {
+                "v": "Younès",
+                "l": "Younès"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "range",
+          "name": "ANNEE",
+          "expression": "value",
+          "columnName": "ANNEE",
+          "from": 2012,
+          "to": 2013,
+          "selectNumeric": true,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        },
+        {
+          "type": "list",
+          "name": "ENFANT_SEXE",
+          "expression": "value",
+          "columnName": "ENFANT_SEXE",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "M",
+                "l": "M"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "starred": false,
+    "description": "Unstar rows"
+  },
+  {
+    "op": "core/column-move",
+    "columnName": "NOMBRE_OCCURRENCES",
+    "index": 7,
+    "description": "Move column NOMBRE_OCCURRENCES to position 7"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "COMMUNE_NOM",
+          "expression": "value",
+          "columnName": "COMMUNE_NOM",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Antibes",
+                "l": "Antibes"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Lignes étoilées",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "baseColumnName": "COLL_INSEE",
+    "expression": "grel:value",
+    "onError": "set-to-blank",
+    "newColumnName": "Rue",
+    "columnInsertIndex": 6,
+    "description": "Create column Rue at index 6 based on column COLL_INSEE using expression grel:value"
+  },
+  {
+    "op": "core/blank-down",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "COMMUNE_NOM",
+          "expression": "value",
+          "columnName": "COMMUNE_NOM",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Antibes",
+                "l": "Antibes"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Lignes étoilées",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Rue",
+    "description": "Blank down cells in column Rue"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "COMMUNE_NOM",
+          "expression": "value",
+          "columnName": "COMMUNE_NOM",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Antibes",
+                "l": "Antibes"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Lignes étoilées",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Rue",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "06004"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column Rue"
+  },
+  {
+    "op": "core/recon",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "COMMUNE_NOM",
+          "expression": "value",
+          "columnName": "COMMUNE_NOM",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Antibes",
+                "l": "Antibes"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Lignes étoilées",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Rue",
+    "config": {
+      "mode": "standard-service",
+      "service": "https://wikidata.reconci.link/en/api",
+      "identifierSpace": "http://www.wikidata.org/entity/",
+      "schemaSpace": "http://www.wikidata.org/prop/direct/",
+      "type": {
+        "id": "Q35120",
+        "name": "entity"
+      },
+      "autoMatch": true,
+      "columnDetails": [],
+      "limit": 0
+    },
+    "description": "Reconcile cells in column Rue to type Q35120"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "COMMUNE_NOM",
+          "expression": "value",
+          "columnName": "COMMUNE_NOM",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Antibes",
+                "l": "Antibes"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Lignes étoilées",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "ANNEE",
+          "columnName": "ANNEE",
+          "query": "2012",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "ENFANT_SEXE",
+          "expression": "value",
+          "columnName": "ENFANT_SEXE",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "F",
+                "l": "F"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Rue",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          ""
+        ],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "Haut Lauvert"
+      }
+    ],
+    "description": "Mass edit cells in column Rue"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "COMMUNE_NOM",
+          "expression": "value",
+          "columnName": "COMMUNE_NOM",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Antibes",
+                "l": "Antibes"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Lignes étoilées",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "ANNEE",
+          "columnName": "ANNEE",
+          "query": "2012",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "ENFANT_SEXE",
+          "expression": "value",
+          "columnName": "ENFANT_SEXE",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "M",
+                "l": "M"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Rue",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          ""
+        ],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "Avenue du grand cavalier"
+      }
+    ],
+    "description": "Mass edit cells in column Rue"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "COMMUNE_NOM",
+          "expression": "value",
+          "columnName": "COMMUNE_NOM",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Antibes",
+                "l": "Antibes"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Lignes étoilées",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "ANNEE",
+          "columnName": "ANNEE",
+          "query": "2013",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "ENFANT_SEXE",
+          "expression": "value",
+          "columnName": "ENFANT_SEXE",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "M",
+                "l": "M"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Rue",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          ""
+        ],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "Avenue de l'antiquité"
+      }
+    ],
+    "description": "Mass edit cells in column Rue"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "COMMUNE_NOM",
+          "expression": "value",
+          "columnName": "COMMUNE_NOM",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Antibes",
+                "l": "Antibes"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Lignes étoilées",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "ANNEE",
+          "columnName": "ANNEE",
+          "query": "2013",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "ENFANT_SEXE",
+          "expression": "value",
+          "columnName": "ENFANT_SEXE",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "F",
+                "l": "F"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Rue",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          ""
+        ],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "Chemin de l'olivette"
+      }
+    ],
+    "description": "Mass edit cells in column Rue"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "COMMUNE_NOM",
+          "expression": "value",
+          "columnName": "COMMUNE_NOM",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Antibes",
+                "l": "Antibes"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Lignes étoilées",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "ANNEE",
+          "columnName": "ANNEE",
+          "query": "2014",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "ENFANT_SEXE",
+          "expression": "value",
+          "columnName": "ENFANT_SEXE",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "F",
+                "l": "F"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Rue",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          ""
+        ],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "Chemin des groules"
+      }
+    ],
+    "description": "Mass edit cells in column Rue"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "COMMUNE_NOM",
+          "expression": "value",
+          "columnName": "COMMUNE_NOM",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Antibes",
+                "l": "Antibes"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Lignes étoilées",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "ANNEE",
+          "columnName": "ANNEE",
+          "query": "2014",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "ENFANT_SEXE",
+          "expression": "value",
+          "columnName": "ENFANT_SEXE",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "M",
+                "l": "M"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Rue",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          ""
+        ],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "Route de grasse"
+      }
+    ],
+    "description": "Mass edit cells in column Rue"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "COMMUNE_NOM",
+          "expression": "value",
+          "columnName": "COMMUNE_NOM",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Antibes",
+                "l": "Antibes"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Lignes étoilées",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "ANNEE",
+          "columnName": "ANNEE",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "ENFANT_SEXE",
+          "expression": "value",
+          "columnName": "ENFANT_SEXE",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "M",
+                "l": "M"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Rue",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          ""
+        ],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "La Maure"
+      }
+    ],
+    "description": "Mass edit cells in column Rue"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "COMMUNE_NOM",
+          "expression": "value",
+          "columnName": "COMMUNE_NOM",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Antibes",
+                "l": "Antibes"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Lignes étoilées",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "ANNEE",
+          "columnName": "ANNEE",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "ENFANT_SEXE",
+          "expression": "value",
+          "columnName": "ENFANT_SEXE",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "F",
+                "l": "F"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Rue",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          ""
+        ],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "Rue Arazy"
+      }
+    ],
+    "description": "Mass edit cells in column Rue"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "COMMUNE_NOM",
+          "expression": "value",
+          "columnName": "COMMUNE_NOM",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Paris",
+                "l": "Paris"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Lignes étoilées",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "ANNEE",
+          "columnName": "ANNEE",
+          "query": "2022",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Rue",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          ""
+        ],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "Rue de Rivoli"
+      }
+    ],
+    "description": "Mass edit cells in column Rue"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "COMMUNE_NOM",
+          "expression": "value",
+          "columnName": "COMMUNE_NOM",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Paris",
+                "l": "Paris"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Lignes étoilées",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "ANNEE",
+          "columnName": "ANNEE",
+          "query": "2021",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Rue",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          ""
+        ],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "Rue Saint-Dominique"
+      }
+    ],
+    "description": "Mass edit cells in column Rue"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "COMMUNE_NOM",
+          "expression": "value",
+          "columnName": "COMMUNE_NOM",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Paris",
+                "l": "Paris"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Lignes étoilées",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "ANNEE",
+          "columnName": "ANNEE",
+          "query": "2020",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Rue",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          ""
+        ],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "Rue Oberkampf"
+      }
+    ],
+    "description": "Mass edit cells in column Rue"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "COMMUNE_NOM",
+          "expression": "value",
+          "columnName": "COMMUNE_NOM",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Paris",
+                "l": "Paris"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Lignes étoilées",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "ANNEE",
+          "columnName": "ANNEE",
+          "query": "2019",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Rue",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          ""
+        ],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "Avenue Victor Hugo"
+      }
+    ],
+    "description": "Mass edit cells in column Rue"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "COMMUNE_NOM",
+          "expression": "value",
+          "columnName": "COMMUNE_NOM",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Paris",
+                "l": "Paris"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Lignes étoilées",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "ANNEE",
+          "columnName": "ANNEE",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Rue",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          ""
+        ],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "Rue Crémieux"
+      }
+    ],
+    "description": "Mass edit cells in column Rue"
+  },
+  {
+    "op": "core/blank-down",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "COMMUNE_NOM",
+          "expression": "value",
+          "columnName": "COMMUNE_NOM",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Antibes",
+                "l": "Antibes"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Lignes étoilées",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "ANNEE",
+          "columnName": "ANNEE",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Rue",
+    "description": "Blank down cells in column Rue"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "COMMUNE_NOM",
+          "expression": "value",
+          "columnName": "COMMUNE_NOM",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Antibes",
+                "l": "Antibes"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Lignes étoilées",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "ANNEE",
+          "columnName": "ANNEE",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Rue",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Rue Championnet"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Rue Marcel Paul"
+      }
+    ],
+    "description": "Mass edit cells in column Rue"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "COMMUNE_NOM",
+          "expression": "value",
+          "columnName": "COMMUNE_NOM",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Antibes",
+                "l": "Antibes"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Lignes étoilées",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "ANNEE",
+          "columnName": "ANNEE",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Rue",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          ""
+        ],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "Rue Jonnard"
+      }
+    ],
+    "description": "Mass edit cells in column Rue"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "COMMUNE_NOM",
+          "expression": "value",
+          "columnName": "COMMUNE_NOM",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Antibes",
+                "l": "Antibes"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Lignes étoilées",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "ANNEE",
+          "columnName": "ANNEE",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "Rue",
+          "expression": "value",
+          "columnName": "Rue",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Rue Arazy",
+                "l": "Rue Arazy"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Rue",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Rue Arazy"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Rue Saint-Charles"
+      }
+    ],
+    "description": "Mass edit cells in column Rue"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "COMMUNE_NOM",
+          "expression": "value",
+          "columnName": "COMMUNE_NOM",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Antibes",
+                "l": "Antibes"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Lignes étoilées",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "ANNEE",
+          "columnName": "ANNEE",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "Rue",
+          "expression": "value",
+          "columnName": "Rue",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Route de grasse",
+                "l": "Route de grasse"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Rue",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Route de grasse"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Rue Emilie"
+      }
+    ],
+    "description": "Mass edit cells in column Rue"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "COMMUNE_NOM",
+          "expression": "value",
+          "columnName": "COMMUNE_NOM",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Antibes",
+                "l": "Antibes"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Lignes étoilées",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "ANNEE",
+          "columnName": "ANNEE",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "Rue",
+          "expression": "value",
+          "columnName": "Rue",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "La Maure",
+                "l": "La Maure"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Rue",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "La Maure"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Rue Marcel Paul"
+      }
+    ],
+    "description": "Mass edit cells in column Rue"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "COMMUNE_NOM",
+          "expression": "value",
+          "columnName": "COMMUNE_NOM",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Antibes",
+                "l": "Antibes"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Lignes étoilées",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "ANNEE",
+          "columnName": "ANNEE",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "Rue",
+          "expression": "value",
+          "columnName": "Rue",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Avenue des princes",
+                "l": "Avenue des princes"
+              }
+            },
+            {
+              "v": {
+                "v": "Avenue de l'antiquité",
+                "l": "Avenue de l'antiquité"
+              }
+            },
+            {
+              "v": {
+                "v": "Haut Lauvert",
+                "l": "Haut Lauvert"
+              }
+            },
+            {
+              "v": {
+                "v": "Allée Bernard",
+                "l": "Allée Bernard"
+              }
+            },
+            {
+              "v": {
+                "v": "Chemin de l'olivette",
+                "l": "Chemin de l'olivette"
+              }
+            },
+            {
+              "v": {
+                "v": "Avenue du grand cavalier",
+                "l": "Avenue du grand cavalier"
+              }
+            },
+            {
+              "v": {
+                "v": "Chemin des groules",
+                "l": "Chemin des groules"
+              }
+            },
+            {
+              "v": {
+                "v": "La Maure",
+                "l": "La Maure"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Rue",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Allée Bernard"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Rue du printemps"
+      }
+    ],
+    "description": "Mass edit cells in column Rue"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "COMMUNE_NOM",
+          "expression": "value",
+          "columnName": "COMMUNE_NOM",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Antibes",
+                "l": "Antibes"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Lignes étoilées",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "ANNEE",
+          "columnName": "ANNEE",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "Rue",
+          "expression": "value",
+          "columnName": "Rue",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Haut Lauvert",
+                "l": "Haut Lauvert"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Rue",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Haut Lauvert"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Rue du Printemps"
+      }
+    ],
+    "description": "Mass edit cells in column Rue"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "COMMUNE_NOM",
+          "expression": "value",
+          "columnName": "COMMUNE_NOM",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Antibes",
+                "l": "Antibes"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Lignes étoilées",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "ANNEE",
+          "columnName": "ANNEE",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "Rue",
+          "expression": "value",
+          "columnName": "Rue",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Rue du Printemps",
+                "l": "Rue du Printemps"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Rue",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Rue du Printemps"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Rue du printemps"
+      }
+    ],
+    "description": "Mass edit cells in column Rue"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "COMMUNE_NOM",
+          "expression": "value",
+          "columnName": "COMMUNE_NOM",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Antibes",
+                "l": "Antibes"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Lignes étoilées",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "ANNEE",
+          "columnName": "ANNEE",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "Rue",
+          "expression": "value",
+          "columnName": "Rue",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Chemin des groules",
+                "l": "Chemin des groules"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Rue",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Chemin des groules"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Rue du printemps"
+      }
+    ],
+    "description": "Mass edit cells in column Rue"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "COMMUNE_NOM",
+          "expression": "value",
+          "columnName": "COMMUNE_NOM",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Antibes",
+                "l": "Antibes"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Lignes étoilées",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "ANNEE",
+          "columnName": "ANNEE",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "Rue",
+          "expression": "value",
+          "columnName": "Rue",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Chemin de l'olivette",
+                "l": "Chemin de l'olivette"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Rue",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Chemin de l'olivette"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Rue du printemps"
+      }
+    ],
+    "description": "Mass edit cells in column Rue"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "COMMUNE_NOM",
+          "expression": "value",
+          "columnName": "COMMUNE_NOM",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Antibes",
+                "l": "Antibes"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Lignes étoilées",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "ANNEE",
+          "columnName": "ANNEE",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "Rue",
+          "expression": "value",
+          "columnName": "Rue",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Avenue du grand cavalier",
+                "l": "Avenue du grand cavalier"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Rue",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Avenue du grand cavalier"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Rue du printemps"
+      }
+    ],
+    "description": "Mass edit cells in column Rue"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "COMMUNE_NOM",
+          "expression": "value",
+          "columnName": "COMMUNE_NOM",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Antibes",
+                "l": "Antibes"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Lignes étoilées",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "ANNEE",
+          "columnName": "ANNEE",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "Rue",
+          "expression": "value",
+          "columnName": "Rue",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Avenue des princes",
+                "l": "Avenue des princes"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Rue",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Avenue des princes"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Rue du printemps"
+      }
+    ],
+    "description": "Mass edit cells in column Rue"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "COMMUNE_NOM",
+          "expression": "value",
+          "columnName": "COMMUNE_NOM",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Antibes",
+                "l": "Antibes"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Lignes étoilées",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "ANNEE",
+          "columnName": "ANNEE",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "Rue",
+          "expression": "value",
+          "columnName": "Rue",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Avenue de l'antiquité",
+                "l": "Avenue de l'antiquité"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Rue",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Avenue de l'antiquité"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Rue du printemps"
+      }
+    ],
+    "description": "Mass edit cells in column Rue"
+  },
+  {
+    "op": "core/blank-down",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "COMMUNE_NOM",
+          "expression": "value",
+          "columnName": "COMMUNE_NOM",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Antibes",
+                "l": "Antibes"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Lignes étoilées",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "ANNEE",
+          "columnName": "ANNEE",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Rue",
+    "description": "Blank down cells in column Rue"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "COMMUNE_NOM",
+          "expression": "value",
+          "columnName": "COMMUNE_NOM",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Antibes",
+                "l": "Antibes"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Lignes étoilées",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "ANNEE",
+          "columnName": "ANNEE",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Rue",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Rue Jonnard"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Rue Bricka"
+      }
+    ],
+    "description": "Mass edit cells in column Rue"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "COMMUNE_NOM",
+          "expression": "value",
+          "columnName": "COMMUNE_NOM",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Antibes",
+                "l": "Antibes"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Lignes étoilées",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "ANNEE",
+          "columnName": "ANNEE",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Rue",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Rue du printemps"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Rue Albany"
+      }
+    ],
+    "description": "Mass edit cells in column Rue"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "COMMUNE_NOM",
+          "expression": "value",
+          "columnName": "COMMUNE_NOM",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Antibes",
+                "l": "Antibes"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Lignes étoilées",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "ANNEE",
+          "columnName": "ANNEE",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Rue",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Rue Marcel Paul"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Rue Phare"
+      }
+    ],
+    "description": "Mass edit cells in column Rue"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "COMMUNE_NOM",
+          "expression": "value",
+          "columnName": "COMMUNE_NOM",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Antibes",
+                "l": "Antibes"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Lignes étoilées",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "ANNEE",
+          "columnName": "ANNEE",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Rue",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          ""
+        ],
+        "fromBlank": true,
+        "fromError": false,
+        "to": "Rue du jardin secret"
+      }
+    ],
+    "description": "Mass edit cells in column Rue"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "COMMUNE_NOM",
+          "expression": "value",
+          "columnName": "COMMUNE_NOM",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Antibes",
+                "l": "Antibes"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Lignes étoilées",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "ANNEE",
+          "columnName": "ANNEE",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "Rue",
+          "expression": "value",
+          "columnName": "Rue",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Rue Phare",
+                "l": "Rue Phare"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Rue",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Rue Phare"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Rue du Phare"
+      }
+    ],
+    "description": "Mass edit cells in column Rue"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "COMMUNE_NOM",
+          "expression": "value",
+          "columnName": "COMMUNE_NOM",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Antibes",
+                "l": "Antibes"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Lignes étoilées",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "ANNEE",
+          "columnName": "ANNEE",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "Rue",
+          "expression": "value",
+          "columnName": "Rue",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Rue Saint-Charles",
+                "l": "Rue Saint-Charles"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Rue",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Rue Saint-Charles"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Rue du Phare"
+      }
+    ],
+    "description": "Mass edit cells in column Rue"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "COMMUNE_NOM",
+          "expression": "value",
+          "columnName": "COMMUNE_NOM",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Antibes",
+                "l": "Antibes"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Lignes étoilées",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "ANNEE",
+          "columnName": "ANNEE",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "list",
+          "name": "Rue",
+          "expression": "value",
+          "columnName": "Rue",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Rue Emilie",
+                "l": "Rue Emilie"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Rue",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Rue Emilie"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Rue du Phare"
+      }
+    ],
+    "description": "Mass edit cells in column Rue"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "COMMUNE_NOM",
+          "expression": "value",
+          "columnName": "COMMUNE_NOM",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Antibes",
+                "l": "Antibes"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Lignes étoilées",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "range",
+          "name": "Rue: best candidate's score",
+          "expression": "cell.recon.best.score",
+          "columnName": "Rue",
+          "from": 87,
+          "to": 101,
+          "selectNumeric": true,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        },
+        {
+          "type": "text",
+          "name": "ANNEE",
+          "columnName": "ANNEE",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "range",
+          "name": "Rue: best candidate's score",
+          "expression": "cell.recon.best.score",
+          "columnName": "Rue",
+          "from": 87,
+          "to": 101,
+          "selectNumeric": true,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        },
+        {
+          "type": "range",
+          "name": "Rue: best candidate's score",
+          "expression": "cell.recon.best.score",
+          "columnName": "Rue",
+          "from": 87,
+          "to": 101,
+          "selectNumeric": true,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        },
+        {
+          "type": "list",
+          "name": "Rue",
+          "expression": "value",
+          "columnName": "Rue",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Rue Albany",
+                "l": "Rue Albany"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Rue",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Rue Albany"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Juan-les-pins"
+      }
+    ],
+    "description": "Mass edit cells in column Rue"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "COMMUNE_NOM",
+          "expression": "value",
+          "columnName": "COMMUNE_NOM",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Antibes",
+                "l": "Antibes"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Lignes étoilées",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "range",
+          "name": "Rue: best candidate's score",
+          "expression": "cell.recon.best.score",
+          "columnName": "Rue",
+          "from": 87,
+          "to": 101,
+          "selectNumeric": true,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        },
+        {
+          "type": "text",
+          "name": "ANNEE",
+          "columnName": "ANNEE",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "range",
+          "name": "Rue: best candidate's score",
+          "expression": "cell.recon.best.score",
+          "columnName": "Rue",
+          "from": 87,
+          "to": 101,
+          "selectNumeric": true,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        },
+        {
+          "type": "range",
+          "name": "Rue: best candidate's score",
+          "expression": "cell.recon.best.score",
+          "columnName": "Rue",
+          "from": 87,
+          "to": 101,
+          "selectNumeric": true,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        },
+        {
+          "type": "list",
+          "name": "Rue",
+          "expression": "value",
+          "columnName": "Rue",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Rue Bricka",
+                "l": "Rue Bricka"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Rue",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Rue Bricka"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gallice"
+      }
+    ],
+    "description": "Mass edit cells in column Rue"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "COMMUNE_NOM",
+          "expression": "value",
+          "columnName": "COMMUNE_NOM",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Antibes",
+                "l": "Antibes"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Lignes étoilées",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "range",
+          "name": "Rue: best candidate's score",
+          "expression": "cell.recon.best.score",
+          "columnName": "Rue",
+          "from": 87,
+          "to": 101,
+          "selectNumeric": true,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        },
+        {
+          "type": "text",
+          "name": "ANNEE",
+          "columnName": "ANNEE",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "range",
+          "name": "Rue: best candidate's score",
+          "expression": "cell.recon.best.score",
+          "columnName": "Rue",
+          "from": 87,
+          "to": 101,
+          "selectNumeric": true,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        },
+        {
+          "type": "range",
+          "name": "Rue: best candidate's score",
+          "expression": "cell.recon.best.score",
+          "columnName": "Rue",
+          "from": 87,
+          "to": 101,
+          "selectNumeric": true,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        },
+        {
+          "type": "list",
+          "name": "Rue",
+          "expression": "value",
+          "columnName": "Rue",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Rue du jardin secret",
+                "l": "Rue du jardin secret"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Rue",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Rue du jardin secret"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ponteil"
+      }
+    ],
+    "description": "Mass edit cells in column Rue"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "COMMUNE_NOM",
+          "expression": "value",
+          "columnName": "COMMUNE_NOM",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Antibes",
+                "l": "Antibes"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Lignes étoilées",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "range",
+          "name": "Rue: best candidate's score",
+          "expression": "cell.recon.best.score",
+          "columnName": "Rue",
+          "from": 87,
+          "to": 101,
+          "selectNumeric": true,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        },
+        {
+          "type": "text",
+          "name": "ANNEE",
+          "columnName": "ANNEE",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "range",
+          "name": "Rue: best candidate's score",
+          "expression": "cell.recon.best.score",
+          "columnName": "Rue",
+          "from": 87,
+          "to": 101,
+          "selectNumeric": true,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        },
+        {
+          "type": "range",
+          "name": "Rue: best candidate's score",
+          "expression": "cell.recon.best.score",
+          "columnName": "Rue",
+          "from": 87,
+          "to": 101,
+          "selectNumeric": true,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        },
+        {
+          "type": "list",
+          "name": "Rue",
+          "expression": "value",
+          "columnName": "Rue",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Ponteil",
+                "l": "Ponteil"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Rue",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Ponteil"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Juan-les-pins"
+      }
+    ],
+    "description": "Mass edit cells in column Rue"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "COMMUNE_NOM",
+          "expression": "value",
+          "columnName": "COMMUNE_NOM",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Antibes",
+                "l": "Antibes"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Lignes étoilées",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "range",
+          "name": "Rue: best candidate's score",
+          "expression": "cell.recon.best.score",
+          "columnName": "Rue",
+          "from": 87,
+          "to": 101,
+          "selectNumeric": true,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        },
+        {
+          "type": "text",
+          "name": "ANNEE",
+          "columnName": "ANNEE",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "range",
+          "name": "Rue: best candidate's score",
+          "expression": "cell.recon.best.score",
+          "columnName": "Rue",
+          "from": 87,
+          "to": 101,
+          "selectNumeric": true,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        },
+        {
+          "type": "range",
+          "name": "Rue: best candidate's score",
+          "expression": "cell.recon.best.score",
+          "columnName": "Rue",
+          "from": 87,
+          "to": 101,
+          "selectNumeric": true,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        },
+        {
+          "type": "list",
+          "name": "Rue",
+          "expression": "value",
+          "columnName": "Rue",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Rue du Phare",
+                "l": "Rue du Phare"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Rue",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Rue du Phare"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Ponteil"
+      }
+    ],
+    "description": "Mass edit cells in column Rue"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "COMMUNE_NOM",
+          "expression": "value",
+          "columnName": "COMMUNE_NOM",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Antibes",
+                "l": "Antibes"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Lignes étoilées",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "range",
+          "name": "Rue: best candidate's score",
+          "expression": "cell.recon.best.score",
+          "columnName": "Rue",
+          "from": 87,
+          "to": 101,
+          "selectNumeric": true,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        },
+        {
+          "type": "text",
+          "name": "ANNEE",
+          "columnName": "ANNEE",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "range",
+          "name": "Rue: best candidate's score",
+          "expression": "cell.recon.best.score",
+          "columnName": "Rue",
+          "from": 87,
+          "to": 101,
+          "selectNumeric": true,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        },
+        {
+          "type": "range",
+          "name": "Rue: best candidate's score",
+          "expression": "cell.recon.best.score",
+          "columnName": "Rue",
+          "from": 87,
+          "to": 101,
+          "selectNumeric": true,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        },
+        {
+          "type": "range",
+          "name": "Rue: best candidate's score",
+          "expression": "cell.recon.best.score",
+          "columnName": "Rue",
+          "from": 71,
+          "to": 101,
+          "selectNumeric": true,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Rue",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Gallice"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Boulevard Chancel"
+      }
+    ],
+    "description": "Mass edit cells in column Rue"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "COMMUNE_NOM",
+          "expression": "value",
+          "columnName": "COMMUNE_NOM",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Antibes",
+                "l": "Antibes"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Lignes étoilées",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "range",
+          "name": "Rue: best candidate's score",
+          "expression": "cell.recon.best.score",
+          "columnName": "Rue",
+          "from": 87,
+          "to": 101,
+          "selectNumeric": true,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        },
+        {
+          "type": "text",
+          "name": "ANNEE",
+          "columnName": "ANNEE",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "range",
+          "name": "Rue: best candidate's score",
+          "expression": "cell.recon.best.score",
+          "columnName": "Rue",
+          "from": 87,
+          "to": 101,
+          "selectNumeric": true,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        },
+        {
+          "type": "range",
+          "name": "Rue: best candidate's score",
+          "expression": "cell.recon.best.score",
+          "columnName": "Rue",
+          "from": 87,
+          "to": 101,
+          "selectNumeric": true,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        },
+        {
+          "type": "range",
+          "name": "Rue: best candidate's score",
+          "expression": "cell.recon.best.score",
+          "columnName": "Rue",
+          "from": 71,
+          "to": 101,
+          "selectNumeric": true,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Rue",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Juan-les-pins"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cours Massena"
+      }
+    ],
+    "description": "Mass edit cells in column Rue"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "COMMUNE_NOM",
+          "expression": "value",
+          "columnName": "COMMUNE_NOM",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Antibes",
+                "l": "Antibes"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Lignes étoilées",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "range",
+          "name": "Rue: best candidate's score",
+          "expression": "cell.recon.best.score",
+          "columnName": "Rue",
+          "from": 87,
+          "to": 101,
+          "selectNumeric": true,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        },
+        {
+          "type": "text",
+          "name": "ANNEE",
+          "columnName": "ANNEE",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "range",
+          "name": "Rue: best candidate's score",
+          "expression": "cell.recon.best.score",
+          "columnName": "Rue",
+          "from": 87,
+          "to": 101,
+          "selectNumeric": true,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        },
+        {
+          "type": "range",
+          "name": "Rue: best candidate's score",
+          "expression": "cell.recon.best.score",
+          "columnName": "Rue",
+          "from": 87,
+          "to": 101,
+          "selectNumeric": true,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        },
+        {
+          "type": "range",
+          "name": "Rue: best candidate's score",
+          "expression": "cell.recon.best.score",
+          "columnName": "Rue",
+          "from": 71,
+          "to": 101,
+          "selectNumeric": true,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Rue",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Ponteil"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Boulevard Chancel"
+      }
+    ],
+    "description": "Mass edit cells in column Rue"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "COMMUNE_NOM",
+          "expression": "value",
+          "columnName": "COMMUNE_NOM",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Antibes",
+                "l": "Antibes"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Lignes étoilées",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "ANNEE",
+          "columnName": "ANNEE",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Rue",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Boulevard Chancel"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Avenue Alexandre III"
+      }
+    ],
+    "description": "Mass edit cells in column Rue"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "COMMUNE_NOM",
+          "expression": "value",
+          "columnName": "COMMUNE_NOM",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "Antibes",
+                "l": "Antibes"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "Lignes étoilées",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "ANNEE",
+          "columnName": "ANNEE",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Rue",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Cours Massena"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Avenue Alexandre III"
+      }
+    ],
+    "description": "Mass edit cells in column Rue"
+  },
+  {
+    "op": "core/recon",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Lignes étoilées",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "ANNEE",
+          "columnName": "ANNEE",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Rue",
+    "config": {
+      "mode": "standard-service",
+      "service": "https://wikidata.reconci.link/en/api",
+      "identifierSpace": "http://www.wikidata.org/entity/",
+      "schemaSpace": "http://www.wikidata.org/prop/direct/",
+      "type": {
+        "id": "Q79007",
+        "name": "street"
+      },
+      "autoMatch": true,
+      "columnDetails": [],
+      "limit": 0
+    },
+    "description": "Reconcile cells in column Rue to type Q79007"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Lignes étoilées",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "ANNEE",
+          "columnName": "ANNEE",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Rue",
+    "similarValue": "Avenue Alexandre III",
+    "judgment": "matched",
+    "match": {
+      "id": "Q1026520",
+      "name": "Juan-les-Pins",
+      "types": [
+        ""
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Juan-les-Pins (Q1026520) for cells containing \"Avenue Alexandre III\" in column Rue"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Lignes étoilées",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "ANNEE",
+          "columnName": "ANNEE",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Rue",
+    "similarValue": "Rue Crémieux",
+    "judgment": "matched",
+    "match": {
+      "id": "Q3447571",
+      "name": "Rue Crémieux",
+      "types": [
+        "Q79007",
+        "Q3352369"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item Rue Crémieux (Q3447571) for cells containing \"Rue Crémieux\" in column Rue"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Lignes étoilées",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "ANNEE",
+          "columnName": "ANNEE",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Rue",
+    "similarValue": "Avenue Victor Hugo",
+    "judgment": "matched",
+    "match": {
+      "id": "Q790581",
+      "name": "avenue Victor-Hugo",
+      "types": [
+        "Q7543083"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item avenue Victor-Hugo (Q790581) for cells containing \"Avenue Victor Hugo\" in column Rue"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Lignes étoilées",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "ANNEE",
+          "columnName": "ANNEE",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Rue",
+    "similarValue": "Rue Oberkampf",
+    "judgment": "matched",
+    "match": {
+      "id": "Q2373366",
+      "name": "rue Oberkampf",
+      "types": [
+        "Q79007"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item rue Oberkampf (Q2373366) for cells containing \"Rue Oberkampf\" in column Rue"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Lignes étoilées",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "ANNEE",
+          "columnName": "ANNEE",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Rue",
+    "similarValue": "Rue Saint-Dominique",
+    "judgment": "matched",
+    "match": {
+      "id": "Q3449863",
+      "name": "rue Saint-Dominique",
+      "types": [
+        "Q79007"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item rue Saint-Dominique (Q3449863) for cells containing \"Rue Saint-Dominique\" in column Rue"
+  },
+  {
+    "op": "core/recon-judge-similar-cells",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Lignes étoilées",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "ANNEE",
+          "columnName": "ANNEE",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Rue",
+    "similarValue": "Rue de Rivoli",
+    "judgment": "matched",
+    "match": {
+      "id": "Q141747",
+      "name": "rue de Rivoli",
+      "types": [
+        "Q79007"
+      ],
+      "score": 100
+    },
+    "shareNewTopics": false,
+    "description": "Match item rue de Rivoli (Q141747) for cells containing \"Rue de Rivoli\" in column Rue"
+  },
+  {
+    "op": "core/extend-reconciled-data",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Lignes étoilées",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "ANNEE",
+          "columnName": "ANNEE",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "baseColumnName": "Rue",
+    "endpoint": "https://wikidata.reconci.link/en/api",
+    "identifierSpace": "http://www.wikidata.org/entity/",
+    "schemaSpace": "http://www.wikidata.org/prop/direct/",
+    "extension": {
+      "properties": [
+        {
+          "id": "P625",
+          "name": null
+        }
+      ]
+    },
+    "columnInsertIndex": 7,
+    "description": "Extend data at index 7 based on column Rue"
+  },
+  {
+    "op": "core/column-split",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Lignes étoilées",
+          "expression": "row.starred",
+          "columnName": "",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "text",
+          "name": "ANNEE",
+          "columnName": "ANNEE",
+          "query": "",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "coordinate location2",
+    "guessCellType": false,
+    "removeOriginalColumn": false,
+    "mode": "separator",
+    "separator": ",",
+    "regex": false,
+    "maxColumns": 0,
+    "description": "Split column coordinate location2 by separator"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "coordinate location2 1",
+    "newColumnName": "latrue",
+    "description": "Rename column coordinate location2 1 to latrue"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "coordinate location2 2",
+    "newColumnName": "longrue",
+    "description": "Rename column coordinate location2 2 to longrue"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Commune_copie",
+    "newColumnName": "COMMUNE_COPIE",
+    "description": "Rename column Commune_copie to COMMUNE_COPIE"
+  }
+]
