@@ -110,6 +110,7 @@ Pour avoir un corpus Top 3 des occurrences, à partir de notre fichier "assembla
 En outre, on a décidé de faire 2 visuelles séparées pour les 2 villes afin que ce soit un peu plus digeste à regarder. On a décidé d'appliquer un filtre sur les années afin qu'on puisse visualiser pour chaque ville les différences/ressemblances en fonction des années. On a appliqué les couleurs pas en fonction des prénoms car on ne le trouve pas pertinent mais en fonction des sexes. 
 
 **(Première version) Antibes : les prénoms les plus donnés aux nouveaux nés par année de 2012 à 2022**
+
 Ici, on voulait faire les Top3 des prénoms les plus donnés mais il y avait des ex aequo et à chaque fois que c'était le cas, je les prenais tous. C'est pour cela qu'on n'a pas seulement 6 prénoms par année.
 
 <iframe src='https://flo.uri.sh/visualisation/16564724/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/16564724/?utm_source=embed&utm_campaign=visualisation/16564724' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
@@ -172,7 +173,7 @@ A partir de notre [corpus](https://github.com/DieynabaKOUYATE/Datavisualisation_
 
 Constat : comme on peut le voir sur ce visuel, Gabriel est le prénom le plus donné aux garçons à Paris et Louise aux filles.
 
-**Antibes : Les prénoms les plus donnés de 2012 à 2022 (les 3 plus grandes occurrences) chez les filles et les garçons**
+**(Première version) Antibes : Les prénoms les plus donnés de 2012 à 2022 (les 3 plus grandes occurrences) chez les filles et les garçons**
 > *Questionnement : quels sont les prénoms les plus donnés aux nouveaux-nés à Antibes de 2012 à 2022 en fonction du sexe (en se basant sur les 3 plus grandes occurrences)?.*
 
 Pour répondre à cette qestion nous avons d'abord essayé une visualisation en bar chart mais le nombre de prénoms étant plus de 10, cela n'était pas très digeste. En effet, il y avait un souci principal : un même prénom peut avoir différentes occurrences selon les années et dans le bar chart le prénom apparaissait 2 fois et cela donnait l'impression que c'était des doublons. Cela induisait plus en erreur qu'il n'éclairait le lecteur sur les informations à retenir. Autre problématique, j'avais tiré une conclusion hâtive sur les multitudes de prénoms donnés aux filles car je n'avais pas pris en compte les redondances. Si la personne qui a fait la visualisation donne une fausse interprétation de sa propre visualisation qu'en sera t-il du lecteur ? Partant de ce constat, je me suis dit que ce n'était pas la bonne manière de visualiser les données et j'ai opté plutôt pour les nuages de mots (voir ci-dessous le graphique erroné).
