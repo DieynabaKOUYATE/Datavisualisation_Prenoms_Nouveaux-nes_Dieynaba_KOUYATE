@@ -171,7 +171,7 @@ A partir de notre [corpus](https://github.com/DieynabaKOUYATE/Datavisualisation_
 
 <iframe src='https://flo.uri.sh/visualisation/16647621/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/16647621/?utm_source=embed&utm_campaign=visualisation/16647621' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
-Constat : comme on peut le voir sur ce visuel, Gabriel est le prénom le plus donné aux garçons à Paris et Louise aux filles.
+Constat : comme on peut le voir sur ce visuel, à Paris, Gabriel est le prénom le plus donné aux garçons et Louise aux filles.
 
 **(Première version) Antibes : Les prénoms les plus donnés de 2012 à 2022 (les 3 plus grandes occurrences) chez les filles et les garçons**
 > *Questionnement : quels sont les prénoms les plus donnés aux nouveaux-nés à Antibes de 2012 à 2022 en fonction du sexe (en se basant sur les 3 plus grandes occurrences)?.*
@@ -191,8 +191,7 @@ En partant sur notre [mini-corpus](https://github.com/DieynabaKOUYATE/Datavisual
 
 > Quel est le prénom le plus donné aux garçons à Antibes sur la décennie 2012-2022 ?  Quel est le prénom le plus donné aux filles à Antibes sur la décennie 2012-2022 ?
 
-
-<iframe src='https://flo.uri.sh/visualisation/16647621/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/16647621/?utm_source=embed&utm_campaign=visualisation/16647621' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
+<iframe src='https://flo.uri.sh/visualisation/16650436/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/16650436/?utm_source=embed&utm_campaign=visualisation/16650436' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
 On voit bien que Adam est le prénom qui a été le plus donné aux garçons sur ces 10 ans à Antibes et Emma chez les filles. 
 
